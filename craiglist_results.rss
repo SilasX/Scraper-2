@@ -1,0 +1,1270 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://sfbay.craigslist.org/search/apa?addThree=wooof&#x26;amp;bedrooms=1&#x26;amp;format=rss&#x26;amp;maxAsk=2000&#x26;amp;minAsk=600&#x26;amp;query=nice good&#x26;amp;srchType=A">
+<title>craigslist SF bay area | apts/housing for rent search &#x22;nice good&#x22;</title>
+<link>http://sfbay.craigslist.org/search/apa?addThree=wooof&#x26;amp;bedrooms=1&#x26;amp;maxAsk=2000&#x26;amp;minAsk=600&#x26;amp;query=nice good&#x26;amp;srchType=A</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://sfbay.craigslist.org/search/apa?addThree=wooof&#x26;amp;bedrooms=1&#x26;amp;format=rss&#x26;amp;maxAsk=2000&#x26;amp;minAsk=600&#x26;amp;query=nice good&#x26;amp;srchType=A</dc:source>
+<dc:title>craigslist SF bay area | apts/housing for rent search &#x22;nice good&#x22;</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2012-02-16T15:40:21-08:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/eby/apa/2855082963.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/nby/apa/2854568595.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/eby/apa/2854533608.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/eby/apa/2854008743.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/eby/apa/2853779231.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/eby/apa/2853615515.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/eby/apa/2853427554.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/eby/apa/2852985980.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/nby/apa/2851638188.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/eby/apa/2851139180.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/scz/apa/2849480670.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/sby/apa/2849447833.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/scz/apa/2849343136.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/sby/apa/2847316826.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/eby/apa/2847244897.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/eby/apa/2846740673.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/eby/apa/2846705746.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/nby/apa/2846293580.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/eby/apa/2845767963.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/eby/apa/2842167470.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/eby/apa/2841075808.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/sfc/apa/2832961235.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/nby/apa/2830201397.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/nby/apa/2823705417.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/eby/apa/2808140225.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://sfbay.craigslist.org/eby/apa/2855082963.html">
+<title><![CDATA[Large 1br in great area (oakland downtown) $1100 1bd]]></title>
+<link>http://sfbay.craigslist.org/eby/apa/2855082963.html</link>
+<description><![CDATA[We have a very nice and very large 1br for rent around Adam's Point (Between Downtown Oakland, Lake Merritt, and Piedmont-walking distance to each).  Address is 155 Pearl St.  It is in a secure, quiet complex; unit has a good size balcony with storage room, a large courtyard (that no one else uses because the only door is right next to this unit), and a parking spot in a secure garage.  Washers/Dryers on premises as well.   5 minute walk to Whole Foods, 10 minute walk to Lake Merritt, 10 minute walk to Piedmont Downtown and Grand/Lake area, 15-20 minute walk to 19th st BART and Downtown Oakland, easy close access to 580 freeway.  Pictures available upon request, just be aware we are in the process of moving out so they may seem slightly cluttered.   <br>
+<br>
+Please contact with any Questions; Move in is March 1st<!-- START CLTAGS -->
+
+
+<br><br>
+			<!-- CLTAG xstreet0=155 Pearl St -->
+			<!-- CLTAG xstreet1=Oakland ave -->
+			<!-- CLTAG city=Oakland -->
+			<!-- CLTAG region=CA -->
+			155 Pearl St
+			<small>
+				(<a target="_blank" href="http://maps.google.com/?q=loc%3A+%31%35%35+Pearl+St+Oakland+CA+US">google map</a>)
+				(<a target="_blank" href="http://maps.yahoo.com/maps_result?addr=%31%35%35+Pearl+St&amp;csz=Oakland+CA&amp;country=US">yahoo map</a>)
+			</small>
+		<ul class="blurbs">
+<li><!-- CLTAG catsAreOK=on -->cats are OK - purrr</li>
+<li><!-- CLTAG dogsAreOK=on -->dogs are OK - wooof</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-02-16T14:01:21-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/eby/apa/2855082963.html</dc:source>
+<dc:title><![CDATA[Large 1br in great area (oakland downtown) $1100 1bd]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-02-16T14:01:21-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/nby/apa/2854568595.html">
+<title><![CDATA[Charming Country Cottage in Penngrove!  (rohnert pk / cotati) $1100 1bd]]></title>
+<link>http://sfbay.craigslist.org/nby/apa/2854568595.html</link>
+<description><![CDATA[This darling little house on a big country lot has all the trimmings! <br>
+<br>
+Cottage in the country, with 1 bedroom plus laundry/extra room, and a fenced yard. The laundry room is a complete extra room connected to the bedroom, with a back door into it. It can be used as a home office. Refrigerator included but not a washer or dryer.<br>
+	<br>
+This property is 2 acres, but it has several other rentals on it. There are two other residential rentals, and several commercial rentals. The commercial rentals are very low key, with very nice friendly tenants, who aren't there at night. The two other residential rentals are at the other end of the property.<br>
+<br>
+Looking for LONG-TERM tenant. Must have GOOD CREDIT. Pets welcomed with pet deposit.<br>
+<br>
+$1,100 Security deposit & 1st month's rent at move-in.<br>
+<br>
+Call Colleen at 415-453-3161 to arrange a showing.<br>
+<!-- START CLTAGS -->
+
+
+<br><br><ul class="blurbs">
+<li><!-- CLTAG catsAreOK=on -->cats are OK - purrr</li>
+<li><!-- CLTAG dogsAreOK=on -->dogs are OK - wooof</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-02-16T09:46:57-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/nby/apa/2854568595.html</dc:source>
+<dc:title><![CDATA[Charming Country Cottage in Penngrove!  (rohnert pk / cotati) $1100 1bd]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-02-16T09:46:57-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/eby/apa/2854533608.html">
+<title><![CDATA[Kensington garden flat (berkeley north / hills) $1900 2bd 1200sqft]]></title>
+<link>http://sfbay.craigslist.org/eby/apa/2854533608.html</link>
+<description><![CDATA[Sit on your very private deck a few feet above the large, green backyard in this 2-bedroom, 1 bath older Kensington house.   <br>
+<br>
+Large frontroom; Good sized bedroom lets out through French doors onto nice deck a few feet above large, green backyard (shared with upper house).  <br>
+Less than a block from the Express Trans-Bay bus and shopping.<br>
+<br>
+Second bedroom smaller, with raised nook for sleeping quarters; good storage, includes part of garage for storage, although not for parking.  Wonderful, large, fenced-in backyard.<br>
+Bathrooom has shower and tub. <br>
+<br>
+Pets negotiable.<br>
+<br>
+First, last, and a $2000 deposit.<br>
+<br>
+<!-- START CLTAGS -->
+
+
+<br><br>
+			<!-- CLTAG xstreet0=Coventry -->
+			<!-- CLTAG xstreet1=Arlington Ave -->
+			<!-- CLTAG city=Kensington -->
+			<!-- CLTAG region=ca -->
+			Coventry at Arlington Ave
+			<small>
+				(<a target="_blank" href="http://maps.google.com/?q=loc%3A+Coventry+at+Arlington+Ave+Kensington+ca+US">google map</a>)
+				(<a target="_blank" href="http://maps.yahoo.com/maps_result?addr=Coventry+at+Arlington+Ave&amp;csz=Kensington+ca&amp;country=US">yahoo map</a>)
+			</small>
+		<ul class="blurbs">
+<li><!-- CLTAG catsAreOK=on -->cats are OK - purrr</li>
+<li><!-- CLTAG dogsAreOK=on -->dogs are OK - wooof</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-02-16T09:30:09-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/eby/apa/2854533608.html</dc:source>
+<dc:title><![CDATA[Kensington garden flat (berkeley north / hills) $1900 2bd 1200sqft]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-02-16T09:30:09-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/eby/apa/2854008743.html">
+<title><![CDATA[duplex good enough for small family (oakland east) $1050 2bd 670sqft]]></title>
+<link>http://sfbay.craigslist.org/eby/apa/2854008743.html</link>
+<description><![CDATA[Vacant Nice Duplex in Oakland Fruitvale area, has 2 parking spaces, easy access to Freeways and shopping plaza. Please call Sam at 510-427-2066 to show.<!-- START CLTAGS -->
+
+
+<br><br>
+			<!-- CLTAG xstreet0=E23rd -->
+			<!-- CLTAG xstreet1=Mitchell -->
+			<!-- CLTAG city=oakland -->
+			<!-- CLTAG region=ca -->
+			E23rd
+			<small>
+				(<a target="_blank" href="http://maps.google.com/?q=loc%3A+E%32%33rd+oakland+ca+US">google map</a>)
+				(<a target="_blank" href="http://maps.yahoo.com/maps_result?addr=E%32%33rd&amp;csz=oakland+ca&amp;country=US">yahoo map</a>)
+			</small>
+		<ul class="blurbs">
+<li><!-- CLTAG catsAreOK=on -->cats are OK - purrr</li>
+<li><!-- CLTAG dogsAreOK=on -->dogs are OK - wooof</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-02-15T23:05:42-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/eby/apa/2854008743.html</dc:source>
+<dc:title><![CDATA[duplex good enough for small family (oakland east) $1050 2bd 670sqft]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-02-15T23:05:42-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/eby/apa/2853779231.html">
+<title><![CDATA[Newly Remodeled-hrdwood-El Cerrito (albany / el cerrito) $1450 2bd 830sqft]]></title>
+<link>http://sfbay.craigslist.org/eby/apa/2853779231.html</link>
+<description><![CDATA[* People with the mindset of contributing to the world to make it a better place are welcome! :)<br>
+* Upper unit in 4-plex across from Del Norte Bart Station<br>
+* Excellent neighbors; all pet friendly and professional <br>
+* Available February 16th; one year lease required<br>
+* Pics show furniture, but will be rented unfurnished<br>
+* Building (exterior) freshly painted; soft green tea with off-white accents <br>
+* Hard wood floors- newly finished <br>
+* Fresh paint (soft yellow/off-white feel)<br>
+* Fireplace- decorative (cannot use)<br>
+* Private Patio and Yard, gated-you maintain and change as you like; gardners welcome<br>
+* Garage access for storage (yay!) <br>
+* Driveway parking; so off street parking <br>
+* Laundry facilities <br>
+* Cats okay <br>
+* Dogs okay, but no yappers/yelpers and no pitbulls (unless has certificate for Good Citizen Canine and willing to attain renters insurance, which is always advisable anyway) <br>
+* Right across from the Del Norte El Cerrito Bart Station (this can be a real positive for commuters; trains going at slow speeds at station, so that is good) <br>
+* Recent credit issues such as a bankruptcy or foreclosure or short sale is not an issue <br>
+* Move-in ready now: $1800 Security and 1st month's rent of $1450 <br>
+* Water included <br>
+* Garbage included<br>
+* Square footage around 832 <br>
+<br>
+Perfect for professionals, students, small family. <br>
+<br>
+The unit has a real homey feel. It's like a nice treehouse as it is located at the backside of complex, 2nd story, and private backyard with trees, thus the treehouse feel.<br>
+<br>
+Location is part of the Madera Elementary School district. <br>
+Here's info on the Madera Elementary School too. It is very reputable. <br>
+<br>
+* API Scores: <br>
+<a href="http://api.cde.ca.gov/AcntRpt2009/2009GrowthSch.aspx?allcds=07617966004840" rel="nofollow">http://api.cde.ca.gov/AcntRpt2009/2009GrowthSch.aspx?allcds=07617966004840</a> <br>
+* Link to Madera Elementary School: <br>
+<a href="http://www.wccusd.k12.ca.us/madera/main/about.htm" rel="nofollow">http://www.wccusd.k12.ca.us/madera/main/about.htm</a> <br>
+* School Locator (boundaries) West Contra Costa School District: <br>
+<a href="http://www.schoolsiteonline.com/schoolsitelocator/?districtCode=32073" rel="nofollow">http://www.schoolsiteonline.com/schoolsitelocator/?districtCode=32073</a> <br>
+<br>
+Please call Alex for a showing. I look forward to talking with you. :) <br>
+<br>
+Alex: 510-301-6878<br>
+<!-- START CLTAGS -->
+
+
+<br><br>
+			<!-- CLTAG xstreet0=6409-6415 Knott Ave -->
+			<!-- CLTAG xstreet1=San Pablo -->
+			<!-- CLTAG city=El Cerrito -->
+			<!-- CLTAG region=CA -->
+			6409-6415 Knott Ave
+			<small>
+				(<a target="_blank" href="http://maps.google.com/?q=loc%3A+%36%34%30%39%2D%36%34%31%35+Knott+Ave+El+Cerrito+CA+US">google map</a>)
+				(<a target="_blank" href="http://maps.yahoo.com/maps_result?addr=%36%34%30%39%2D%36%34%31%35+Knott+Ave&amp;csz=El+Cerrito+CA&amp;country=US">yahoo map</a>)
+			</small>
+		<ul class="blurbs">
+<li><!-- CLTAG catsAreOK=on -->cats are OK - purrr</li>
+<li><!-- CLTAG dogsAreOK=on -->dogs are OK - wooof</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-02-15T18:38:57-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/eby/apa/2853779231.html</dc:source>
+<dc:title><![CDATA[Newly Remodeled-hrdwood-El Cerrito (albany / el cerrito) $1450 2bd 830sqft]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-02-15T18:38:57-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/eby/apa/2853615515.html">
+<title><![CDATA[&#9608;&#9608;Spacious, HW flrs, bathtub, Vintage-Victorian, Ground floor!  (Point Richmond near DT, San Rafael) $1000 1bd 750sqft]]></title>
+<link>http://sfbay.craigslist.org/eby/apa/2853615515.html</link>
+<description><![CDATA[2 blocks from charming downtown Point Richmond,Original HW floors/Pergo quiet upscale residential, most utilities included., full bathtub.<br>
+<br>
+<br>
+For non-smokers only, located 2 blocks from downtown Point Richmond with access to restaurants, shopping, public library, post office, banks etc. Features a living room & eat-in kitchen with attached 'expandable' dinning room, two large counters, some 15 cabinet door cupboard with a rotating 'carousel' storage for pots & pans, original hardwood floors maple satin finished. Lots of cupboard/closets space, full size gas with electric ignition oven/stove, full size refrigerator. Two large closets with built in shelves, cabinet and additional shelving, ceiling fan and two entrances.The bathroom has a tiled shower over a full size tub.<br>
+<br>
+<br>
+<br>
+located 2 blocks from downtown Point Richmond. Quiet, upscale residential neighborhood. A short walk to restaurants, shopping, public library, post office, banks etc. <br>
+<br>
+<br>
+<br>
+Cold and hot water, and garbage are included (tenant pays for electricity only). A large community back yard/deck with a little garden which gets afternoon sun; a good place for sun-bathing and barbecuing. On-site laundry facility and ample street parking are available. Walking distance to a nice Marina, two parks, beautiful swimming beach. Historic Point Richmond is known for having lots of hiking trails with one of the most magnificent viewpoints of the Bay Area.<br>
+<br>
+<br>
+<br>
+A few minutes drive from Berkeley . . .The unit has good accessibility to the East Bay, San Francisco and the North Bay with minutes to BART Bay Bridge, HWs 80, 580, 101, Richmond/San Rafael Bridge and Richmond Ferry Terminal. <br>
+<br>
+<br>
+<br>
+The area is considered an upscale quite residential neighborhood. To view pictures: <a href="http://www.flickr.com/photos/garyluria/" rel="nofollow">http://www.flickr.com/photos/garyluria/</a> and look for APT #8.<br>
+	<br>
+<br>
+	<br>
+<br>
+Directions from Berkeley: Take Richmond Parkway exit; veer to the right; make left to Castro St; another left at the second light still on Castro street; drive straight w/Castro up the hill for about 50 yards or so and turn left to W Richmond Ave. for about 50 yards or so and park at Martina St. <br>
+Please call Gary at (510) 688-8018 or 510-317-5880 or e-mail back.<br>
+<br>
+<br>
+<br>
+<!-- START CLTAGS -->
+
+
+<br><br><ul class="blurbs">
+<li><!-- CLTAG catsAreOK=on -->cats are OK - purrr</li>
+<li><!-- CLTAG dogsAreOK=on -->dogs are OK - wooof</li>
+<li> <!-- CLTAG GeographicArea=Point Richmond near DT, San Rafael -->Location: Point Richmond near DT, San Rafael</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-02-15T16:43:27-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/eby/apa/2853615515.html</dc:source>
+<dc:title><![CDATA[&#9608;&#9608;Spacious, HW flrs, bathtub, Vintage-Victorian, Ground floor!  (Point Richmond near DT, San Rafael) $1000 1bd 750sqft]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-02-15T16:43:27-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/eby/apa/2853427554.html">
+<title><![CDATA[ cute, nice size rooms (pittsburg / antioch) $975 2bd 1000sqft]]></title>
+<link>http://sfbay.craigslist.org/eby/apa/2853427554.html</link>
+<description><![CDATA[Two bedroom, one bath duplex. The apartment is 1000sf and the bedrooms are a good size. There is off street parking. The neighborhood is quiet; family neighborhood. Rent includes water and garbage. There are gas washer and dryer hook-ups, as well as ample storage. <br>
+<br>
+<br>
+<br>
+The unit is available for quick move in . Looking forward to hearing from you. One last thing, this is a smoke free and drug free residence.  925-565-2441<br>
+<!-- START CLTAGS -->
+
+
+<br><br>
+			<!-- CLTAG xstreet0=Montezuma Street -->
+			<!-- CLTAG xstreet1=W. 12th Street -->
+			<!-- CLTAG city=Pittsburg -->
+			<!-- CLTAG region=CA -->
+			Montezuma Street at W. 12th Street
+			<small>
+				(<a target="_blank" href="http://maps.google.com/?q=loc%3A+Montezuma+Street+at+W%2E+%31%32th+Street+Pittsburg+CA+US">google map</a>)
+				(<a target="_blank" href="http://maps.yahoo.com/maps_result?addr=Montezuma+Street+at+W%2E+%31%32th+Street&amp;csz=Pittsburg+CA&amp;country=US">yahoo map</a>)
+			</small>
+		<ul class="blurbs">
+<li><!-- CLTAG catsAreOK=on -->cats are OK - purrr</li>
+<li><!-- CLTAG dogsAreOK=on -->dogs are OK - wooof</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-02-15T14:51:05-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/eby/apa/2853427554.html</dc:source>
+<dc:title><![CDATA[ cute, nice size rooms (pittsburg / antioch) $975 2bd 1000sqft]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-02-15T14:51:05-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/eby/apa/2852985980.html">
+<title><![CDATA[Vaulted ceilings, open floorplan, pets welcome! READY NOW! (fremont / union city / newark) $1175 1bd 600sqft]]></title>
+<link>http://sfbay.craigslist.org/eby/apa/2852985980.html</link>
+<description><![CDATA[<br>
+<b>
+Top floor, corner unit over looking the pool. This unit boasts an open floorplan, good storage and a nice sized bedroom. Do not miss this great apartment. It is move-in ready and at this great price it will not last long! Pennsylvania Apartments also features a sparkling pool, 2 laundry facilities, a dog run park and BBQ area for the exclusive use of our residents only! Call today to schedule a personal tour!
+<br>
+</b>
+
+<div style="color: #666666;"><font size="2" face="Arial,Verdana,sans-serif"><table width="100%" height="100%" border="0" align="center" cellpadding="10" cellspacing="0"> <tr> <td colspan="2" align="center" valign="top" background="http://www.postlets.com/css/styles/aspen/bg_body.gif"> <table width="740" border="0" cellspacing="0" cellpadding="0" align="center"> <tr> <td></td> <td height="20" align="right"> <div style="background-color: #5A471B; color: Wheat; padding-left: 5px; padding-right: 5px; padding-top: 5px; padding-bottom: 5px;"><font size="2"><strong>Pennsylvania Apartments</strong> | Aeris Properties  | ereed@aerisproperties.com | (510) 792-2328</font></div> </td> </tr> </table> <table width="740" border="0" cellspacing="0" cellpadding="0" align="center" style="border-left: 1px solid #ABB2C5; border-right: 1px solid #ABB2C5;"> <tr> <td> <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center"> <tr> <td> <div> <table width="100%" border="0" cellspacing="0" cellpadding="7"> <tr> <td colspan="2" background="http://www.postlets.com/css/colors/FFFEFD.gif"><table width="100%" cellspacing="0" cellpadding="1"> <tr valign="top"> <td height="30" align="left" valign="top"><div style="color: #4B6B7F;"><font size="5">3600 Pennsylvania Ave, Fremont, CA</font></div></td> </tr> <tr> <td width="560" align="left" valign="top"> <div style="color: #666666;">Welcome to your new apartment home at Pennsylvania Apartments!</div></td> </tr> </table></td> </tr> <tr> <td colspan="2" valign="top" background="http://www.postlets.com/css/colors/FFFEFD.gif"> <table width="724" border="0" cellpadding="4" cellspacing="0" style="border-left: 1px solid #ABB2C5; border-right: 1px solid #ABB2C5; border-top: 1px solid #ABB2C5; border-bottom: 1px solid #ABB2C5;"> <tr> <td align="left" background="http://www.postlets.com/css/colors/FFFEFD.gif"><table width="100%" border="0" cellspacing="0" cellpadding="0"> <tr> <td width="350" height="35" valign="top"> <div style="color: #987241;"><font size="4">1BR/1BA Apartment</font></div></td> <td valign="top"><span style="padding-right: 5px;"></span></td> <td align="right" valign="top"><div style="color: #987241;"><font size="4">$1,175/month</font></div></td> </tr> <tr> <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="3" style="border-top: 1px solid #ABB2C5;">  <tr> <td background="http://www.postlets.com/css/colors/FFFEFD.gif">Bedrooms</td> <td background="http://www.postlets.com/css/colors/FFFEFD.gif">1</td> </tr> <tr> <td background="http://www.postlets.com/css/colors/FFFEFD.gif">Bathrooms</td> <td background="http://www.postlets.com/css/colors/FFFEFD.gif">1 full, 0 partial </td> </tr>  <tr> <td background="http://www.postlets.com/css/colors/FFFEFD.gif">Sq Footage</td> <td background="http://www.postlets.com/css/colors/FFFEFD.gif">600 </td> </tr>  <tr> <td background="http://www.postlets.com/css/colors/FFFEFD.gif">Parking</td> <td background="http://www.postlets.com/css/colors/FFFEFD.gif"> None</td> </tr>  <tr> <td background="http://www.postlets.com/css/colors/FFFEFD.gif">Pet Policy</td> <td background="http://www.postlets.com/css/colors/FFFEFD.gif">Cats, Dogs, Conditional</td> </tr> <tr> <td background="http://www.postlets.com/css/colors/FFFEFD.gif">Deposit</td> <td background="http://www.postlets.com/css/colors/FFFEFD.gif">$600</td> </tr>  </table>  <br> <div style="color: #666666;"><span style="font-weight: bold;"> DESCRIPTION</span></div> <hr size="1" noshade style="border-top: 1px solid #ABB2C5;"> <table width="100%" border="0" cellspacing="0" cellpadding="3"> <tr> <td>Welcome to Pennsylvania Apartments! Come see our gorgeous 1 bedroom, 1 bath apartment home. It features a large living room and entertainment area, spacious kitchen with roomy cabinets to accommodate all your necessities, generous storage, ceiling fans and a dog park on property for your family pet!<br>
+<br>
+Enjoy the lush landscaping, sprawling trees and greenery surrounding the complex. Our units come equipped with either a balcony, patio or large backyards. Relax in the privacy of your outdoor living space and enjoy this crisp Fall weather.<br>
+<br>
+Call us to schedule your tour TODAY! We look forward to welcoming you into your new apartment home with us at Pennsylvania Apartments!  </td> </tr> </table>  </td> <td valign="top" width="5"><span style="padding-right: 5px;"></span></td> <td valign="top"><table width="100%" border="0" cellpadding="8" cellspacing="0" style="border-left: 1px solid #5A471B; border-right: 1px solid #5A471B; border-top: 1px solid #5A471B; border-bottom: 1px solid #5A471B;"> <tr> <td><img src="http://www.postlets.com/create/photos/20111101/163147_6514195_3571875160.JPG" border="1" width="350" height="262"><br>
+</td> </tr> </table> </div> <table width="100%" border="0" cellspacing="0" cellpadding="0"> <tr> <td align="center"><table width="350" border="0" cellspacing="0" cellpadding="1"> <tr> <td height="25" align="center">see additional photos below</td> </tr></table></td> </tr> </table> </td> </tr> </table> </td> </tr> </table> </td> </tr>  <tr> <td colspan="2" valign="top" background="http://www.postlets.com/css/colors/FFFEFD.gif"><table width="724" border="0" cellpadding="4" cellspacing="0" style="border-left: 1px solid #ABB2C5; border-right: 1px solid #ABB2C5; border-top: 1px solid #ABB2C5; border-bottom: 1px solid #ABB2C5;"> <tr> <td align="left" background="http://www.postlets.com/css/colors/FFFEFD.gif"> <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center"> <tr align="center" valign="middle"> <td valign="top">  <table width="100%" border="0" cellspacing="0" cellpadding="3"> <tr> <td align="left"><div style="color: #666666;"><span style="font-weight: bold;">RENTAL FEATURES</span></div><hr size="1" noshade style="border-top: 1px solid #ABB2C5;"> <table width="100%" border="0" cellspacing="0" cellpadding="3"><tr>
+<td width="33%">- High/Vaulted ceiling</td>
+<td width="33%">- Living room</td>
+<td width="33%">- Dining room</td>
+</tr>
+<tr>
+<td width="33%">- Refrigerator</td>
+<td width="33%">- Stove/Oven</td>
+<td width="33%">- Balcony, Deck, or Patio</td>
+</tr>
+<tr>
+<td width="33%">- Cable-ready</td>
+<td width="33%"> </td><td width="33%"> </td></tr>
+</table> </td> </tr> </table> <br>   <table width="100%" border="0" cellspacing="0" cellpadding="3"> <tr> <td align="left"><div style="color: #666666;"><span style="font-weight: bold;">COMMUNITY FEATURES</span></div> <hr size="1" noshade style="border-top: 1px solid #ABB2C5;"> <table width="100%" border="0" cellspacing="0" cellpadding="3"><tr>
+<td width="33%">- Laundry on-site</td>
+<td width="33%">- Swimming pool(s)</td>
+<td width="33%">- Small building</td>
+</tr>
+<tr>
+<td width="33%">- Wheelchair access</td>
+<td width="33%"> </td><td width="33%"> </td></tr>
+</table><p> </td> </tr> </table> <br>  <table width="100%" border="0" cellspacing="0" cellpadding="3"> <tr> <td align="left"><div style="color: #666666;"><span style="font-weight: bold;">LEASE TERMS</span></div> <hr size="1" noshade style="border-top: 1px solid #ABB2C5;"> 12 months and other options available at an extra charge </td> </tr> </table>  </td> </tr> </table> </td> </tr> </table> </td> </tr> <tr> <td colspan="2" valign="top" background="http://www.postlets.com/css/colors/FFFEFD.gif"><table width="724" border="0" cellpadding="4" cellspacing="0" style="border-left: 1px solid #ABB2C5; border-right: 1px solid #ABB2C5; border-top: 1px solid #ABB2C5; border-bottom: 1px solid #ABB2C5;"> <tr> <td align="left" background="http://www.postlets.com/css/colors/FFFEFD.gif"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center"> <tr align="center" valign="middle"> <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="3"><tr> <td valign="top" align="left"><div style="color: #666666;"><span style="font-weight: bold;">ADDITIONAL PHOTOS</span></div> <hr size="1" noshade style="border-top: 1px solid #ABB2C5;"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center"><tr align="center" valign="top"><td height="262"><div align="center" style="padding-left: 2px; padding-right: 2px; padding-top: 2px; padding-bottom: 2px;"><img src="http://www.postlets.com/create/photos/20111101/163147_6514195_3571875160.JPG" border="0" width="344"><br>Intimate community</div></td><td><div align="center" style="padding-left: 2px; padding-right: 2px; padding-top: 2px; padding-bottom: 2px;"><img src="http://www.postlets.com/create/photos/20111101/163146_6514195_3687977632.JPG" border="0" width="344"><br>Cute bathroom</div><tr align="center" valign="top"><td height="262"><div align="center" style="padding-left: 2px; padding-right: 2px; padding-top: 2px; padding-bottom: 2px;"><img src="http://www.postlets.com/create/photos/20111101/163147_6514195_2681091237.JPG" border="0" width="344"><br>Good closets</div></td><td><div align="center" style="padding-left: 2px; padding-right: 2px; padding-top: 2px; padding-bottom: 2px;"><img src="http://www.postlets.com/create/photos/20111101/163147_6514195_2555443246.JPG" border="0" width="344"><br>Open floorplan</div><tr align="center" valign="top"><td height="262"><div align="center" style="padding-left: 2px; padding-right: 2px; padding-top: 2px; padding-bottom: 2px;"><img src="http://www.postlets.com/create/photos/20111101/163147_6514195_2569985107.JPG" border="0" width="344"><br>Dog run park</div></td><td><div align="center" style="padding-left: 2px; padding-right: 2px; padding-top: 2px; padding-bottom: 2px;"><img src="http://www.postlets.com/create/photos/20111101/163148_6514195_3815304993.JPG" border="0" width="344"><br>Sparkling pool</div></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr><tr> <td width="50%" valign="top" align="left" background="http://www.postlets.com/css/colors/FFFEFD.gif"> <table width="350" border="0" cellpadding="0" cellspacing="1" style="border-left: 1px solid #FFFEFD; border-right: 2px solid #FFFFFF; border-top: 1px solid #FFFEFD; border-bottom: 1px solid #FFFEFD;"> <tr> <td><table width="100%" border="0" cellpadding="5" cellspacing="0"> <tr> <td><div style="color: #666666;"><span style="font-weight: bold;">  Contact info: </span></div></td> </tr> <tr> <td><table width="100%" border="0" cellspacing="0" cellpadding="0"> <tr valign="top"> <td width="35"><span style="padding-right: 5px;"></span></td>
+ <td><table width="100%" border="0" cellspacing="0" cellpadding="2"> <tr><td><div style="color: #666666;">Pennsylvania Apartments</div></td></tr>
+<tr><td><div style="color: #666666;">Aeris Properties </div></td></tr>
+<tr><td><div style="color: #666666;">ereed@aerisproperties.com</div></td></tr>
+<tr><td><div style="color: #666666;">(510) 792-2328</div></td></tr>
+ </table></td> </tr> </table><br></td> </tr> </table></td> </tr> </table></td></tr> </table></td></tr> <tr> <td><table width="100%" border="0" cellspacing="0" cellpadding="0"> <tr>  <td align="right" background="http://www.postlets.com/css/colors/FFFEFD.gif">Equal Opportunity Housing<div style="color: #6514195;"></div></td> <td width="35" align="right" background="http://www.postlets.com/css/colors/FFFEFD.gif"><span style="padding-left: 5px; padding-right: 5px;"><img src="http://www.postlets.com/images/eoh_logo.gif" width="24" height="18"></span></td> </tr> </table> </td> </tr><tr><td background="http://www.postlets.com/css/colors/FFFFFF.gif"><span style="padding-left: 5px; padding-right: 5px;"><img src="http://www.postlets.com/images/powered-by-postlets.png" alt="Powered by Postlets" width="200" height="59" border="0"></span></td></tr> </table></td> </tr> </table> <table width="740" border="0" cellspacing="0" cellpadding="0"> <tr> <td height="20" align="left" valign="middle"><div style="background-color: #5A471B; color: Wheat; padding-left: 5px; padding-right: 5px; padding-top: 5px; padding-bottom: 5px;"><font size="2">Posted: Feb 2, 2012, 8:07am PST</font></div></td> </tr> </table></td></tr> </table></font></div>
+<!-- START CLTAGS -->
+
+
+<br><br>
+			<!-- CLTAG xstreet0=3600 Pennsylvania Ave -->
+			<!-- CLTAG xstreet1=Mowry Ave -->
+			<!-- CLTAG city=Fremont -->
+			<!-- CLTAG region=CA -->
+			3600 Pennsylvania Ave
+			<small>
+				(<a target="_blank" href="http://maps.google.com/?q=loc%3A+%33%36%30%30+Pennsylvania+Ave+Fremont+CA+US">google map</a>)
+				(<a target="_blank" href="http://maps.yahoo.com/maps_result?addr=%33%36%30%30+Pennsylvania+Ave&amp;csz=Fremont+CA&amp;country=US">yahoo map</a>)
+			</small>
+		<ul class="blurbs">
+<li><!-- CLTAG catsAreOK=on -->cats are OK - purrr</li>
+<li><!-- CLTAG dogsAreOK=on -->dogs are OK - wooof</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-02-15T11:06:31-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/eby/apa/2852985980.html</dc:source>
+<dc:title><![CDATA[Vaulted ceilings, open floorplan, pets welcome! READY NOW! (fremont / union city / newark) $1175 1bd 600sqft]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-02-15T11:06:31-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/nby/apa/2851638188.html">
+<title><![CDATA[Nice apartment for rent (novato) $1650 2bd]]></title>
+<link>http://sfbay.craigslist.org/nby/apa/2851638188.html</link>
+<description><![CDATA[Beautiful 2 bedroom apartment for rent, good neighborhood laundry in site ,garage ,available on  march 1 .deposit $1,000.00 and month by month $1650.00 ubication 70 plumas circle Novato California , please contact only by phone to Socorro Ramirez phone number 415) 6322712<!-- START CLTAGS -->
+
+
+<br><br>
+			<!-- CLTAG xstreet0=70 plumas circle -->
+			<!-- CLTAG xstreet1= -->
+			<!-- CLTAG city=Novato -->
+			<!-- CLTAG region=Ca -->
+			70 plumas circle
+			<small>
+				(<a target="_blank" href="http://maps.google.com/?q=loc%3A+%37%30+plumas+circle+Novato+Ca+US">google map</a>)
+				(<a target="_blank" href="http://maps.yahoo.com/maps_result?addr=%37%30+plumas+circle&amp;csz=Novato+Ca&amp;country=US">yahoo map</a>)
+			</small>
+		<ul class="blurbs">
+<li><!-- CLTAG catsAreOK=on -->cats are OK - purrr</li>
+<li><!-- CLTAG dogsAreOK=on -->dogs are OK - wooof</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-02-14T13:38:23-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/nby/apa/2851638188.html</dc:source>
+<dc:title><![CDATA[Nice apartment for rent (novato) $1650 2bd]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-02-14T13:38:23-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/eby/apa/2851139180.html">
+<title><![CDATA[Desired Corner Lot Location w/ Easy Access to Shopping & Six Flags (vallejo / benicia) $1479 3bd]]></title>
+<link>http://sfbay.craigslist.org/eby/apa/2851139180.html</link>
+<description><![CDATA[This 3 bedroom 2 bath home in Vallejo is on desirable corner lot in a comfortable neighborhood offering walking distance to Setterquist Park and Elsa Widenmann Elementary.  Shopping and food options are less than half a mile away at Boss Market Plaza, and Meadows Plaza with Food 4 Less grocery store is roughly a mile away.   The location also offers easy highway access for commuters, and Six Flags Discovery Kingdom is less than 10 minutes away.  Features include: <br>
+<br>
+-Corner Location<br>
+-Covered Front Porch<br>
+-Brick Walkup<br>
+-Bright Interior w/ Nice Window Light<br>
+-Granite Countertops<br>
+-Mirrored Closet Doors<br>
+-Durable Laminate Flooring<br>
+-Carpeting in Bedrooms<br>
+-Painted Brick Fireplace<br>
+-Good Sized Backyard w/ Patio and Trees<br>
+-2 Car Garage<br>
+<br>
+Call us for more details: (707) 474-8943<!-- START CLTAGS -->
+
+
+<br><br>
+			<!-- CLTAG xstreet0=College Ave -->
+			<!-- CLTAG xstreet1= -->
+			<!-- CLTAG city=Vallejo -->
+			<!-- CLTAG region=CA -->
+			College Ave
+			<small>
+				(<a target="_blank" href="http://maps.google.com/?q=loc%3A+College+Ave+Vallejo+CA+US">google map</a>)
+				(<a target="_blank" href="http://maps.yahoo.com/maps_result?addr=College+Ave&amp;csz=Vallejo+CA&amp;country=US">yahoo map</a>)
+			</small>
+		<ul class="blurbs">
+<li><!-- CLTAG catsAreOK=on -->cats are OK - purrr</li>
+<li><!-- CLTAG dogsAreOK=on -->dogs are OK - wooof</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-02-16T11:29:33-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/eby/apa/2851139180.html</dc:source>
+<dc:title><![CDATA[Desired Corner Lot Location w/ Easy Access to Shopping & Six Flags (vallejo / benicia) $1479 3bd]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-02-16T11:29:33-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/scz/apa/2849480670.html">
+<title><![CDATA[Bonny Doon 2 bedroom (santa cruz) $1250 2bd 700sqft]]></title>
+<link>http://sfbay.craigslist.org/scz/apa/2849480670.html</link>
+<description><![CDATA[BonnyDoon 2 bedroom Apartment,lovely forest setting<br>
+-Nice 2 bedroom with lots of windows, high cielings, slate floors ,nice bathroom with tub<br>
+-Kitchen living are all one room and kinda small-<br>
+-heat is a wall heater<br>
+-garden space and a big shared yard<br>
+-one large bedroom, one medium bedroom<br>
+-separate entrance<br>
+-pets negot.<br>
+-call 650 465 2863 and email -both is good<br>
+-Avail. March 1<br>
+<!-- START CLTAGS -->
+
+
+<br><br>
+			<!-- CLTAG xstreet0=Conifer ln  -->
+			<!-- CLTAG xstreet1=Empire Grade -->
+			<!-- CLTAG city=Bonny Doon -->
+			<!-- CLTAG region=Ca -->
+			Conifer ln  at Empire Grade
+			<small>
+				(<a target="_blank" href="http://maps.google.com/?q=loc%3A+Conifer+ln+at+Empire+Grade+Bonny+Doon+Ca+US">google map</a>)
+				(<a target="_blank" href="http://maps.yahoo.com/maps_result?addr=Conifer+ln+at+Empire+Grade&amp;csz=Bonny+Doon+Ca&amp;country=US">yahoo map</a>)
+			</small>
+		<ul class="blurbs">
+<li><!-- CLTAG catsAreOK=on -->cats are OK - purrr</li>
+<li><!-- CLTAG dogsAreOK=on -->dogs are OK - wooof</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-02-13T10:07:50-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/scz/apa/2849480670.html</dc:source>
+<dc:title><![CDATA[Bonny Doon 2 bedroom (santa cruz) $1250 2bd 700sqft]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-02-13T10:07:50-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/sby/apa/2849447833.html">
+<title><![CDATA[2 bedroom upstairs apt. (san jose west) $1300 2bd 560sqft]]></title>
+<link>http://sfbay.craigslist.org/sby/apa/2849447833.html</link>
+<description><![CDATA[Im trying to find someone to take over my lease on my 2 bedroom 1 bath apartment on the border of San Jose and Cupertino. This upstairs apartment is approximately 560 sq ft with a good size kitchen and dining area. The apartment comes with one assigned shared garage space with another parking space outside the garage door. There is a nice small courtyard for barbequing and enjoying the good days. Prospect High School is located directly across the street with a beautiful lighted track and football field for all to use and the Los Gatos Creek Trail entrance is 3 minutes walking distance from the apartment.Additionally Westgate Mall, Target and Trader Joes are all within a mile of the apartment and Highway 85 and 280 are within 5 minutes drive time.  This is a small complex with only 15 units and everybody is very friendly. There is a laundry room downstairs with 2 washers and 4 dryers coin operated. I need someone to move in immediately to and sign a lease through 5/31 at which point they can then choose to re sign the lease for the next year or leave if they like. Once you move in, I will no longer have anything to do with the property and it will be between you and the landlord. I run a janitorial company so the apartment will be professionally cleaned and the carpet will be cleaned as well. If you're interested, please contact me now so I can  get you in as soon as possible and so I wont miss out on the opportunity for my next living situation. Pictures upon request. Thanks for your time. <br>
+<br>
+Update: I neglected to mention that there is a $1200 deposit for the apartment and the prorated rent if you were to move in before the 1st of March would be based on number of days remaining in the month.<!-- START CLTAGS -->
+
+
+<br><br>
+			<!-- CLTAG xstreet0=Prospect road -->
+			<!-- CLTAG xstreet1=Lawrence Expwy -->
+			<!-- CLTAG city=San Jose -->
+			<!-- CLTAG region=CA -->
+			Prospect road at Lawrence Expwy
+			<small>
+				(<a target="_blank" href="http://maps.google.com/?q=loc%3A+Prospect+road+at+Lawrence+Expwy+San+Jose+CA+US">google map</a>)
+				(<a target="_blank" href="http://maps.yahoo.com/maps_result?addr=Prospect+road+at+Lawrence+Expwy&amp;csz=San+Jose+CA&amp;country=US">yahoo map</a>)
+			</small>
+		<ul class="blurbs">
+<li><!-- CLTAG catsAreOK=on -->cats are OK - purrr</li>
+<li><!-- CLTAG dogsAreOK=on -->dogs are OK - wooof</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-02-13T09:52:49-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/sby/apa/2849447833.html</dc:source>
+<dc:title><![CDATA[2 bedroom upstairs apt. (san jose west) $1300 2bd 560sqft]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-02-13T09:52:49-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/scz/apa/2849343136.html">
+<title><![CDATA[Very Nice, Clean, Quiet Home in Sunny Oaks, Pets Ok (santa cruz) $1650 1bd 1000sqft]]></title>
+<link>http://sfbay.craigslist.org/scz/apa/2849343136.html</link>
+<description><![CDATA[One bedroom house located on about one acre in the sunny oak tree area of Felton (horse properties) off W. Zayante only 1 mile to town (Felton)<br>
+and close to Roaring Camp (5 minutes away) and Henry Cowell<br>
+Large One Bedroom with washer, dryer, appliances (Microwave, fridge, stove), small walk in closet, storage, yard<br>
+Quiet, private dead-end road with only 5 other houses on road.<br>
+There are 3 houses on the property. No shared walls. About 1000 sq ft or more?<br>
+6 miles to Santa Cruz and Hwy 17.<br>
+Very nice/clean, open floor plan, tall ceilings, lots of windows-sunny and bright inside<br>
+Great, friendly neighbors<br>
+Full bath with bathtub and shower in tiled bathroom, wood flooring throughout house<br>
+Fenced yard for well behaved pets<br>
+Locking storage room<br>
+Washer and dryer<br>
+$1650 month<br>
+No smoking<br>
+Available April 1<br>
+Lease<br>
+Good references<br>
+Seeking long term tenants<br>
+<br>
+Keep in mind all the plants, etc inside the fence and metal storage shed will be gone with current tenants.<br>
+<br>
+<!-- START CLTAGS -->
+
+
+<br><br><ul class="blurbs">
+<li><!-- CLTAG catsAreOK=on -->cats are OK - purrr</li>
+<li><!-- CLTAG dogsAreOK=on -->dogs are OK - wooof</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-02-13T09:04:14-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/scz/apa/2849343136.html</dc:source>
+<dc:title><![CDATA[Very Nice, Clean, Quiet Home in Sunny Oaks, Pets Ok (santa cruz) $1650 1bd 1000sqft]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-02-13T09:04:14-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/sby/apa/2847316826.html">
+<title><![CDATA[2 Masters + 1/2 Bath Condo Gated Community Burbank Area Pet OK  (san jose west) $1800 2bd 1055sqft]]></title>
+<link>http://sfbay.craigslist.org/sby/apa/2847316826.html</link>
+<description><![CDATA[414 S. Buena Vista Ave.<br>
+San Jose, CA 95126<br>
+<br>
+Rent: $1800<br>
+Deposit: $1800<br>
+One year lease<br>
+No smoking<br>
+Small pet OK with additional deposit Breed restricted<br>
+<br>
+Gated community in the Burbank area.<br>
+Two upstairs bedrooms both with attached bathrooms<br>
+1/2 bath downstairs<br>
+Granite slab counters and back splash<br>
+Stainless steel appliances<br>
+Nice full sized washer and dryer upstairs<br>
+Slate covered private patio<br>
+<br>
+One assigned covered parking space. Easy second car parking.<br>
+<br>
+Tenant pays PG&E and water.<br>
+<br>
+Location: Burbank area less than 2 miles from Santana Row/Valley Fair. Near downtown/280/880<br>
+<br>
+PLEASE drive by first. Showing mid-week after a professional cleaning.<br>
+<br>
+Due to the amount of spam here on Craigslist, please put BUENA VISTA in the subject line. It is highly unlikely that I will open an email without this...so PLEASE do so if you'd like a response. Looking for good credit, proof of income, smoke free and good references.<br>
+<br>
+Sorry...we do not take section 8 or co-signers.<!-- START CLTAGS -->
+
+
+<br><br>
+			<!-- CLTAG xstreet0=S. Buena Vista Ave. -->
+			<!-- CLTAG xstreet1=San Carlos -->
+			<!-- CLTAG city=San Jose -->
+			<!-- CLTAG region=CA -->
+			S. Buena Vista Ave. at San Carlos
+			<small>
+				(<a target="_blank" href="http://maps.google.com/?q=loc%3A+S%2E+Buena+Vista+Ave%2E+at+San+Carlos+San+Jose+CA+US">google map</a>)
+				(<a target="_blank" href="http://maps.yahoo.com/maps_result?addr=S%2E+Buena+Vista+Ave%2E+at+San+Carlos&amp;csz=San+Jose+CA&amp;country=US">yahoo map</a>)
+			</small>
+		<ul class="blurbs">
+<li><!-- CLTAG catsAreOK=on -->cats are OK - purrr</li>
+<li><!-- CLTAG dogsAreOK=on -->dogs are OK - wooof</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-02-14T08:06:29-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/sby/apa/2847316826.html</dc:source>
+<dc:title><![CDATA[2 Masters + 1/2 Bath Condo Gated Community Burbank Area Pet OK  (san jose west) $1800 2bd 1055sqft]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-02-14T08:06:29-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/eby/apa/2847244897.html">
+<title><![CDATA[NICE & SUNNY 2 BD/ 2 BA CONDO IN GATED COMMUNITY, SECTION 8 OK  (pittsburg / antioch) $1050 2bd]]></title>
+<link>http://sfbay.craigslist.org/eby/apa/2847244897.html</link>
+<description><![CDATA[Newly remodel. <br>
+<br>
+Kids friendly and close to the pool.<br>
+<br>
+2 bedrooms 2 baths, decent size patio<br>
+<br>
+Great floor plan, feel free to come take a look,<br>
+<br>
+MOVE IN READY , first and last month rent.<br>
+<br>
+Club house and pool, water & garbage,<br>
+<br>
+Home warranties are also included,<br>
+<br>
+which covers the pest control, plumbings, A/C & heater, electrics, and most major appliances etc.<br>
+<br>
+Excellent credit not necessary required but you will need to prove of stable income and good rental reference.<br>
+<br>
+<br>
+Section 8 welcome<br>
+<br>
+If I miss your call, feel free to leave a message and I will return your call asap. <br>
+<br>
+Please contact Garron at 925-219-2773, thank you for looking.<br>
+<!-- START CLTAGS -->
+
+
+<br><br><ul class="blurbs">
+<li><!-- CLTAG catsAreOK=on -->cats are OK - purrr</li>
+<li><!-- CLTAG dogsAreOK=on -->dogs are OK - wooof</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-02-11T19:54:23-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/eby/apa/2847244897.html</dc:source>
+<dc:title><![CDATA[NICE & SUNNY 2 BD/ 2 BA CONDO IN GATED COMMUNITY, SECTION 8 OK  (pittsburg / antioch) $1050 2bd]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-02-11T19:54:23-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/eby/apa/2846740673.html">
+<title><![CDATA[Bright, cute, nice size rooms (pittsburg / antioch) $975 2bd 1000sqft]]></title>
+<link>http://sfbay.craigslist.org/eby/apa/2846740673.html</link>
+<description><![CDATA[I am looking to rent my two bedroom, one bath duplex. The apartment is 1000sf and the bedrooms are a good size. There is off street parking. The neighborhood is good; people take care of each other here and keep up the properties. Rent includes water and garbage. There are washer and dryer hook-ups, as well as ample storage. <br>
+<br>
+<br>
+<br>
+The unit is available for immediate move in. Looking forward to hearing from you. One last thing, this is a smoke free and drug free residence.  925-565-2441<br>
+<!-- START CLTAGS -->
+
+
+<br><br>
+			<!-- CLTAG xstreet0=Montezuma Street -->
+			<!-- CLTAG xstreet1=W. 12th Street -->
+			<!-- CLTAG city=Pittsburg -->
+			<!-- CLTAG region=CA -->
+			Montezuma Street at W. 12th Street
+			<small>
+				(<a target="_blank" href="http://maps.google.com/?q=loc%3A+Montezuma+Street+at+W%2E+%31%32th+Street+Pittsburg+CA+US">google map</a>)
+				(<a target="_blank" href="http://maps.yahoo.com/maps_result?addr=Montezuma+Street+at+W%2E+%31%32th+Street&amp;csz=Pittsburg+CA&amp;country=US">yahoo map</a>)
+			</small>
+		<ul class="blurbs">
+<li><!-- CLTAG dogsAreOK=on -->dogs are OK - wooof</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-02-11T13:23:20-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/eby/apa/2846740673.html</dc:source>
+<dc:title><![CDATA[Bright, cute, nice size rooms (pittsburg / antioch) $975 2bd 1000sqft]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-02-11T13:23:20-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/eby/apa/2846705746.html">
+<title><![CDATA[Extra Nice Hillcrest Park, $650 Deposit, Sec 8 OK pics! (vallejo / benicia) $1350 3bd]]></title>
+<link>http://sfbay.craigslist.org/eby/apa/2846705746.html</link>
+<description><![CDATA[<p><font face="Arial" size="2">3 bedrooms - 1 bath. next to one of Vallejo's nicest 
+parks. 32 Parrott Street in Hillcrest Park 
+area.  Close to shopping and bus. Federal Terrace Elementary school close. </font> </p>
+<p><font face="Arial" size="2">Condominium Remodeled in 2009 at a cost of $18K. New granite counter tops, new 
+kitchen cabinets, new appliances.</font></p>
+<p><font face="Arial" size="2">Self-cleaning gas stove. Microwave. Large 
+side-by-side refrigerator with Ice/Water.</font></p>
+<p><font face="Arial" size="2">Washer and Dryer included 
+with unit, Fenced Back Yard, 
+New Wood Laminate Flooring throughout. Good neighbors and neighborhood. </font> </p>
+<p><font face="Arial" size="2">Pet 
+considered if well behaved. </font> </p>
+<p><font face="Arial" size="2">Looking for an excellent long-term tenant with 
+and good references. Unit approved for Section 8.
+</font> </p>
+<p><font face="Arial" size="2">$1350 per month. $650 Deposit with decent &gt; 600 or Sec 8 voucher. Available Now.</font></p>
+<p><font face="Arial" size="2">Link to
+<a href="http://www.laserbytes.com/images/rent_app.pdf" rel="nofollow">downloadable application</a> 
+which may be faxed or emailed back</font></p>
+<p><font face="Arial" size="2">Phone:415-407-4346; 415-382-0552</font></p>
+<p><font face="Arial" size="2">Pictures:</font></p>
+<img border="0" src="http://www.laserbytes.com/images/32parrott1.jpg" width="480" height="360"></font></p>
+<p>
+<img border="0" src="http://www.laserbytes.com/images/32parrott2.jpg" width="480" height="360"></font></p>
+<p>
+<img border="0" src="http://www.laserbytes.com/images/32parrott3.jpg" width="480" height="360"></font></p>
+<p>
+<img border="0" src="http://www.laserbytes.com/images/32parrott4.jpg" width="480" height="360"></font></p>
+<p>
+<img border="0" src="http://www.laserbytes.com/images/32parrott7.jpg" width="480" height="640"></font></p>
+<p>
+</font></p>
+<p>
+ </p>
+<p>
+ </p>
+<p>
+ </p>
+<p> </p>
+<p> </p>
+
+
+
+<!-- START CLTAGS -->
+
+
+<br><br>
+			<!-- CLTAG xstreet0=parrott -->
+			<!-- CLTAG xstreet1=sacramento -->
+			<!-- CLTAG city=vallejo -->
+			<!-- CLTAG region=ca -->
+			parrott at sacramento
+			<small>
+				(<a target="_blank" href="http://maps.google.com/?q=loc%3A+parrott+at+sacramento+vallejo+ca+US">google map</a>)
+				(<a target="_blank" href="http://maps.yahoo.com/maps_result?addr=parrott+at+sacramento&amp;csz=vallejo+ca&amp;country=US">yahoo map</a>)
+			</small>
+		<ul class="blurbs">
+<li><!-- CLTAG catsAreOK=on -->cats are OK - purrr</li>
+<li><!-- CLTAG dogsAreOK=on -->dogs are OK - wooof</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-02-11T13:03:54-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/eby/apa/2846705746.html</dc:source>
+<dc:title><![CDATA[Extra Nice Hillcrest Park, $650 Deposit, Sec 8 OK pics! (vallejo / benicia) $1350 3bd]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-02-11T13:03:54-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/nby/apa/2846293580.html">
+<title><![CDATA[Downtown Middletown (lake county) $1000 2bd 1000sqft]]></title>
+<link>http://sfbay.craigslist.org/nby/apa/2846293580.html</link>
+<description><![CDATA[Cute 2 br 1 ba house with fenced yard, well water, washer/dryer and 1 car garage. Central air/heat and well insulated. Nice space in backyard for garden (no 215) or friendly dog. Near Middletown Post Office (1 block) and Harbin Hot Springs. Available now. Yearly lease requested and please have good credit/references. Thanks.<!-- START CLTAGS -->
+
+
+<br><br><ul class="blurbs">
+<li><!-- CLTAG dogsAreOK=on -->dogs are OK - wooof</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-02-11T09:33:09-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/nby/apa/2846293580.html</dc:source>
+<dc:title><![CDATA[Downtown Middletown (lake county) $1000 2bd 1000sqft]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-02-11T09:33:09-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/eby/apa/2845767963.html">
+<title><![CDATA[Coming Soon - BIG NEW remodeled, FREE Parking (Bart) !!! (berkeley) $1599 2bd]]></title>
+<link>http://sfbay.craigslist.org/eby/apa/2845767963.html</link>
+<description><![CDATA[Best Value, Excellent location, Quiet, Safe, Convenient : <br>
+<br>
+NORTH of University Avenue -  Curtis Street, cross University Ave ! <br>
+<br>
+Pls email for more photos & floor plan <br>
+<br>
+** Pls tell us something about your party, e.g. occupation, if in school year/major.  If has pet, type/weight.<br>
+<br>
+Exclusive remodeled large 2 bedrooms apt will become available in 2 weeks.<br>
+<br>
+Excellent Location: Safe, Convenient, North Berkeley !!<br>
+<br>
+**Private separate entrance**. Corner unit on Ground Floor, no steps. <br>
+<br>
+Small private front yard. <br>
+New paint. <br>
+Good sized 2 bedrooms with built-in large closets (@ ~150 s.f.), Italian Travetine Stone flooring.<br>
+Granite flooring in BIG living room (&gt; 400 s.f.)<br>
+Double paned windows<br>
+BIG open kitchen, new granite counter top, new designer's cabinets, newer gas stove & over-sized new refrigerator. <br>
+New central gas heat.<br>
+Brand new landscaping big backyard.<br>
+Remodeled bathroom, full-sized bathtub with culture marble.<br>
+Clean, quiet, safe & completely upgraded building. <br>
+<br>
+Great, convenient and quiet neighborhood. Very nice tenants. "NORTH" of University Avenue, Close to entertainment, shopping (4th street), restaurants (bars, pubs, cafes etc.) Close to BART, AC transit to SF, Hwy 80, AMTRAK. Near Marina and Bay shoreline. Walking, biking distance to downtown Berkeley and UC.<br>
+<br>
+Close to North Berkeley Bart & UCB campus. Free No. 51bus to UCB for students around the corner.<br>
+<br>
+Excellent Management. On site manager Graduate Architect student at UCB, and super attentive landlord easily reached by email (anytime).<br>
+<br>
+Coin laundry in the building (front loaded washer) & laundry on corner.<br>
+<br>
+Req. 1st month, last month rents & 1 month deposit only.<br>
+<br>
+Looking for mature students or working professionals who are CLEAN and take good care of the premises.<br>
+<br>
+Pet considered - Tenant must purchase insurance for dogs (about $150 per year).<br>
+<br>
+THANK YOU :-) <br>
+<br>
+For rent by owner, No Agent Fee.<br>
+<br>
+<br>
+<br>
+ <br>
+<br>
+<!-- START CLTAGS -->
+
+
+<br><br>
+			<!-- CLTAG xstreet0=university -->
+			<!-- CLTAG xstreet1=curtis -->
+			<!-- CLTAG city=BERKELEY -->
+			<!-- CLTAG region=CA -->
+			university at curtis
+			<small>
+				(<a target="_blank" href="http://maps.google.com/?q=loc%3A+university+at+curtis+BERKELEY+CA+US">google map</a>)
+				(<a target="_blank" href="http://maps.yahoo.com/maps_result?addr=university+at+curtis&amp;csz=BERKELEY+CA&amp;country=US">yahoo map</a>)
+			</small>
+		<ul class="blurbs">
+<li><!-- CLTAG catsAreOK=on -->cats are OK - purrr</li>
+<li><!-- CLTAG dogsAreOK=on -->dogs are OK - wooof</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-02-14T23:01:06-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/eby/apa/2845767963.html</dc:source>
+<dc:title><![CDATA[Coming Soon - BIG NEW remodeled, FREE Parking (Bart) !!! (berkeley) $1599 2bd]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-02-14T23:01:06-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/eby/apa/2842167470.html">
+<title><![CDATA[MOVE IN BONUS/Nice location in Marina (vallejo / benicia) $775 1bd 720sqft]]></title>
+<link>http://sfbay.craigslist.org/eby/apa/2842167470.html</link>
+<description><![CDATA[<div style="color: #000000;"><font size="2"><table width="100%" height="100%" border="0" align="center" cellpadding="10" cellspacing="0"> <tr> <td colspan="2" align="center" valign="top" background="http://www.postlets.com/css/styles/mesa/bg_body.gif"> <table width="740" border="0" cellspacing="0" cellpadding="0" align="center"> <tr> <td></td> <td height="20" align="right"> <div><font size="2"><strong></strong><a href="http://www.postlets.com/email_interest.php?pid=4369690&amp;v=rt" rel="nofollow"></a> |415 342-3085 Nancy
+</font></div> </td> </tr> </table> <table width="740" border="0" cellspacing="0" cellpadding="0" align="center" style="border-left: 1px solid #DCD2CD; border-right: 1px solid #DCD2CD;"> <tr> <td> <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center"> <tr> <td> <table width="100%" border="0" cellspacing="0" cellpadding="7"> <tr> <td colspan="2"><table width="100%" cellspacing="0" cellpadding="1"> <tr valign="top"> <td height="30" align="left" valign="top"><div style="color: #734A39;"><font size="5">110- Wilson Ave - , Vallejo, CA</font></div></td> </tr> <tr> <td width="560" align="left" valign="top"> <div style="color: #000000;">Come Home to the Bay View Apartments. In good location in Marina of Vallejo. 775. per month move in special  CALL 1/2 free month with a 6 month or a 1 yr. lease.(3 mo.,6 mo.& 1 yr. l</div></td> </tr> </table></td> </tr> <tr> <td colspan="2" valign="top"> <table width="724" border="0" cellpadding="4" cellspacing="0"> <tr> <td align="left"><table width="100%" border="0" cellspacing="0" cellpadding="0"> <tr> <td width="350" height="35" valign="top"> <div style="color: #000000;"><font size="4">1BR/1BA Apartment</font></div></td> <td valign="top"><span style="padding-right: 5px;"></span></td> <td align="right" valign="top"><div style="color: #000000;"><font size="4">$775/month</font></div></td> </tr> <tr> <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="3">  <tr> <td>Bedrooms</td> <td>1</td> </tr> <tr> <td>Bathrooms</td> <td>1 full, 0 partial </td> </tr>  <tr> <td>Sq Footage</td> <td>750 </td> </tr>  <tr> <td>Parking</td> <td> 1dedicated</td> </tr>  <tr> <td>Pet Policy</td> <td>Cats, Dogs, Conditional</td> </tr> <tr> <td>Deposit</td> <td>$595</td> </tr>  </table>  <br> <div><span style="font-weight: bold;"> DESCRIPTION</span></div> <hr size="1" noshade style="border-top: 1px solid #DCD2CD;"> <table width="100%" border="0" cellspacing="0" cellpadding="3"> <tr> <td>sec deposit of $595. CALL FOR MOVE IN BONUS DETAILS with a 6 month or a 1 yr. lease Also avail, 3 month, 6 month, and 1 yr. lease.<br>
+2 bedroom/1ba available at $950<br>
+<br>
+Spacious 1 bd/1ba in Vallejo Marina area near Ferry Boat & Mare Island. Walk to Ferry Boat and be in San Francisco in 60 minutes. The Bay View Apartments are close to downtown, transportation and shopping.CALL FOR MOVE IN BONUS DETAILS with a 6 month or a 1 yr. lease 415 342-3085 <br>
+<br>
+3 Laundry room facilities, assigned parking and resident manager on site. <br>
+<br>
+Water/Sewer and Garbage paid by landlord. <br>
+( Sec 8 welcome ) Near ferry boat to S.F., bus transportation, & close to Mare Island, and Touro University. Pets considered with pet addendum and pet deposit.<br>
+<br>
+110-158 Wilson Ave,The Bay View Apartments, in Vallejo . Call today for an appointment at 415 342-3085 Nancy
+</td> </tr> </table>  </td> <td valign="top" width="5"><span style="padding-right: 5px;"></span></td> <td valign="top"><table width="100%" border="0" cellpadding="8" cellspacing="0" style="border-left: 1px solid #734A39; border-right: 1px solid #734A39; border-top: 1px solid #734A39; border-bottom: 1px solid #734A39; background-color: #734A39;"> <tr> <td><img src="http://www.postlets.com/create/photos/20100903/173600_Front_07_fixed.jpg" border="1" width="350" height="262"><br>
+</td> </tr> </table> <table width="100%" border="0" cellspacing="0" cellpadding="0"> <tr> <td align="center"><table width="350" border="0" cellspacing="0" cellpadding="1"> <tr> <td height="25" align="center">see additional photos below</td> </tr></table></td> </tr> </table> </td> </tr> </table> </td> </tr> </table> </td> </tr>  <tr> <td colspan="2" valign="top"><table width="724" border="0" cellpadding="4" cellspacing="0"> <tr> <td align="left"> <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center"> <tr align="center" valign="middle"> <td valign="top">  <table width="100%" border="0" cellspacing="0" cellpadding="3"> <tr> <td align="left"><div><span style="font-weight: bold;">RENTAL FEATURES</span></div><hr size="1" noshade style="border-top: 1px solid #DCD2CD;"> <table width="100%" border="0" cellspacing="0" cellpadding="3"><tr>
+<td width="33%">- Tile floor</td>
+<td width="33%">- Living room</td>
+<td width="33%">- Dining room</td>
+</tr>
+<tr>
+<td width="33%">- Breakfast nook</td>
+<td width="33%">- Refrigerator</td>
+<td width="33%">- Stove/Oven</td>
+</tr>
+<tr>
+<td width="33%">- Washer</td>
+<td width="33%">- Dryer</td>
+<td width="33%">- Laundry area - inside</td>
+</tr>
+<tr>
+<td width="33%">- Balcony, Deck, or Patio</td>
+<td width="33%">- Cable-ready</td>
+<td width="33%">- High-speed internet</td>
+</tr>
+</table> </td> </tr> </table> <br>   <table width="100%" border="0" cellspacing="0" cellpadding="3"> <tr> <td align="left"><div><span style="font-weight: bold;">COMMUNITY FEATURES</span></div> <hr size="1" noshade style="border-top: 1px solid #DCD2CD;"> <table width="100%" border="0" cellspacing="0" cellpadding="3"><tr>
+<td width="33%">- Guest parking</td>
+<td width="33%">- Laundry on-site, </td>â€¢       Cable Ready
+â€¢	High Speed Internet Ready
+â€¢       All Apts. Have Decks
+â€¢	Assigned Parking 
+â€¢	Onsite Maintenance 
+â€¢	Easy Access to Shopping 
+â€¢	Access to Public Transportation 
+â€¢	3 Laundry Room Facilities	
+â€¢	Short Term Leasing Available 
+â€¢	Easy Access to Freeways 
+â€¢	Public Parks Nearby
+â€¢	In the lovely Vallejo Marina 
+â€¢	Resident Manager Onsite
+â€¢	Small Friendly Community of 25 apts.
+â€¢	Pet Friendly (with pet addendum and deposit)
+â€¢	Porter Service
+
+Keywords: Touro University, College, Medical School, Mare Island, Martinez, Fairfield, Marin, Walnut Creek, , Albany, 
+Hercules, Napa, Sonoma, East Bay, Berkeley, Short Term Leasing Available, Section 8 OK, Close To Ferry Boat to San Francisco, Easy Credit Terms, Move in Specials Available
+
+
+<td width="33%"> </td></tr>
+</table><p> </td> </tr> </table> <br>  <table width="100%" border="0" cellspacing="0" cellpadding="3"> <tr> <td align="left"><div><span style="font-weight: bold;">LEASE TERMS</span></div> <hr size="1" noshade style="border-top: 1px solid #DCD2CD;"> 3 month, 6 month and 1 yr. lease avail.<br>
+ </td> </tr> </table>  </td> </tr> </table> </td> </tr> </table> </td> </tr> <tr> <td colspan="2" valign="top"><table width="724" border="0" cellpadding="4" cellspacing="0"> <tr> <td align="left"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center"> <tr align="center" valign="middle"> <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="3"><tr> <td valign="top" align="left"><div><span style="font-weight: bold;">ADDITIONAL PHOTOS</span></div> <hr size="1" noshade style="border-top: 1px solid #DCD2CD;"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center"><tr align="center" valign="top"><td height="262"><div align="center" style="padding-left: 2px; padding-right: 2px; padding-top: 2px; padding-bottom: 2px;"><img src="http://www.postlets.com/create/photos/20100903/173600_Front_07_fixed.jpg" border="0" width="344"><br>Photo 1</div></td><td><div align="center" style="padding-left: 2px; padding-right: 2px; padding-top: 2px; padding-bottom: 2px;"><img src="http://www.postlets.com/create/photos/20101128/171951_Livingroom11.JPG" border="0" width="344"><br>Photo 1</div><tr align="center" valign="top"><td height="262"><div align="center" style="padding-left: 2px; padding-right: 2px; padding-top: 2px; padding-bottom: 2px;"><img src="http://www.postlets.com/create/photos/20101128/171951_Hallway1.JPG" border="0" width="344"><br>Photo 2</div></td><td><div align="center" style="padding-left: 2px; padding-right: 2px; padding-top: 2px; padding-bottom: 2px;"><img src="http://www.postlets.com/create/photos/20101128/171824_Bathroom1.JPG" border="0" width="344"><br>Photo 1</div><tr align="center" valign="top"><td height="262"><div align="center" style="padding-left: 2px; padding-right: 2px; padding-top: 2px; padding-bottom: 2px;"><img src="http://www.postlets.com/create/photos/20101128/171824_bedroom1.JPG" border="0" width="344"><br>Photo 2</div></td><td><div align="center" style="padding-left: 2px; padding-right: 2px; padding-top: 2px; padding-bottom: 2px;"><img src="http://www.postlets.com/create/photos/20100903/173602_DSCN0311=garden_area_web_res..JPG" border="0" width="344"><br>Photo 4</div></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr><tr> <td width="50%" valign="top" align="left"> <table width="350" border="0" cellpadding="0" cellspacing="1"> <tr> <td><table width="100%" border="0" cellpadding="5" cellspacing="0"> <tr> <td><div><span style="font-weight: bold;">  Contact info: </span></div></td> </tr> <tr> <td><table width="100%" border="0" cellspacing="0" cellpadding="0"> <tr valign="top"> <td width="35"><span style="padding-right: 5px;"></span></td>
+ <td><table width="100%" border="0" cellspacing="0" cellpadding="2"> <tr><td><div style="color: #000000;"></div></td></tr>
+<tr><td>&lt;div style="color:  415 342-3085 Nancy
+</div></td></tr>
+  </table></td> </tr> </table><br></td> </tr> </table></td> </tr> </table></td></tr> </table></td></tr> <tr> <td><table width="100%" border="0" cellspacing="0" cellpadding="0"> <tr> <td align="left"><span style="padding-left: 5px; padding-right: 5px;"><img src="http://www.postlets.com/css/styles/mesa/btn_powered.gif" width="140" height="25" border="0"></span></td> <td align="right"><a href="http://www.craigslist.org/about/FHA.html" rel="nofollow">Equal Opportunity Housing</a><div style="color: #4369690;"></div></td> <td width="35" align="right"><span style="padding-left: 5px; padding-right: 5px;"><img src="http://www.postlets.com/images/eoh_logo.gif" width="24" height="18"></span></td> </tr> </table> </td> </tr> </table></td> </tr> </table> <table width="740" border="0" cellspacing="0" cellpadding="0"> <tr> <td height="20" align="left" valign="middle"><div><font size="2"></font></div></td> </tr> </table></td></tr> </table></font></div>
+<!-- START CLTAGS -->
+
+
+<br><br>
+			<!-- CLTAG xstreet0=140 Wilson -->
+			<!-- CLTAG xstreet1=Farragut -->
+			<!-- CLTAG city=Vallejo -->
+			<!-- CLTAG region=CA -->
+			140 Wilson
+			<small>
+				(<a target="_blank" href="http://maps.google.com/?q=loc%3A+%31%34%30+Wilson+Vallejo+CA+US">google map</a>)
+				(<a target="_blank" href="http://maps.yahoo.com/maps_result?addr=%31%34%30+Wilson&amp;csz=Vallejo+CA&amp;country=US">yahoo map</a>)
+			</small>
+		<ul class="blurbs">
+<li><!-- CLTAG catsAreOK=on -->cats are OK - purrr</li>
+<li><!-- CLTAG dogsAreOK=on -->dogs are OK - wooof</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-02-15T19:10:55-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/eby/apa/2842167470.html</dc:source>
+<dc:title><![CDATA[MOVE IN BONUS/Nice location in Marina (vallejo / benicia) $775 1bd 720sqft]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-02-15T19:10:55-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/eby/apa/2841075808.html">
+<title><![CDATA[Newly Remodeled Apt. for 55 and over! (fremont / union city / newark) $1000 1bd 580sqft]]></title>
+<link>http://sfbay.craigslist.org/eby/apa/2841075808.html</link>
+<description><![CDATA[<div style="color: #000000;"><font size="2" face="Arial,Verdana,sans-serif"><table width="100%" height="100%" border="0" align="center" cellpadding="10" cellspacing="0"> <tr> <td colspan="2" align="center" valign="top" background="http://www.postlets.com/css/styles/marina/bg_body.gif"> <table width="740" border="0" cellspacing="0" cellpadding="0" align="center"> <tr> <td></td> <td height="20" align="right"> <div style="background-color: #AD8E6E; color: Linen; padding-left: 5px; padding-right: 5px; padding-top: 5px; padding-bottom: 5px;"><font size="2"><strong>Coleen</strong> | Barcelon Associates Mgmnt., Corp. | (510) 226-1102</font></div> </td> </tr> </table> <table width="740" border="0" cellspacing="0" cellpadding="0" align="center" style="border-left: 1px solid #E5D2BD; border-right: 1px solid #E5D2BD;"> <tr> <td> <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center"> <tr> <td> <div> <table width="100%" border="0" cellspacing="0" cellpadding="7"> <tr> <td colspan="2" background="http://www.postlets.com/css/colors/FAF2C9.gif"><table width="100%" cellspacing="0" cellpadding="1"> <tr valign="top"> <td height="30" align="left" valign="top"><div style="color: #206591;"><font size="5">40455 Chapel Way, Fremont, CA</font></div></td> </tr> <tr> <td width="560" align="left" valign="top"> <div style="color: #000000;">Chapel Corner Senior Community is just what you are looking for, if you are 55 years young or older! </div></td> </tr> </table></td> </tr> <tr> <td colspan="2" valign="top" background="http://www.postlets.com/css/colors/FAF2C9.gif"> <table width="724" border="0" cellpadding="4" cellspacing="0" style="border-left: 1px solid #E5D2BD; border-right: 1px solid #E5D2BD; border-top: 1px solid #E5D2BD; border-bottom: 1px solid #E5D2BD;"> <tr> <td align="left" background="http://www.postlets.com/css/colors/FFFEFD.gif"><table width="100%" border="0" cellspacing="0" cellpadding="0"> <tr> <td width="350" height="35" valign="top"> <div style="color: #000000;"><font size="4">1BR/1BA Apartment</font></div></td> <td valign="top"><span style="padding-right: 5px;"></span></td> <td align="right" valign="top"><div style="color: #000000;"><font size="4">$1,050/month</font></div></td> </tr> <tr> <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="3" style="border-top: 1px solid #E5D2BD;">  <tr> <td background="http://www.postlets.com/css/colors/FFFEFD.gif">Bedrooms</td> <td background="http://www.postlets.com/css/colors/FFFEFD.gif">1</td> </tr> <tr> <td background="http://www.postlets.com/css/colors/FFFEFD.gif">Bathrooms</td> <td background="http://www.postlets.com/css/colors/FFFEFD.gif">1 full, 0 partial </td> </tr>  <tr> <td background="http://www.postlets.com/css/colors/FFFEFD.gif">Sq Footage</td> <td background="http://www.postlets.com/css/colors/FFFEFD.gif">600 </td> </tr>  <tr> <td background="http://www.postlets.com/css/colors/FFFEFD.gif">Parking</td> <td background="http://www.postlets.com/css/colors/FFFEFD.gif"> 1 dedicated</td> </tr>  <tr> <td background="http://www.postlets.com/css/colors/FFFEFD.gif">Pet Policy</td> <td background="http://www.postlets.com/css/colors/FFFEFD.gif">Cats, Dogs</td> </tr> <tr> <td background="http://www.postlets.com/css/colors/FFFEFD.gif">Deposit</td> <td background="http://www.postlets.com/css/colors/FFFEFD.gif">$500</td> </tr>  </table>  <br> <div style="color: #AD8E6E;"><span style="font-weight: bold;"> DESCRIPTION</span></div> <hr size="1" noshade style="border-top: 1px solid #E5D2BD;"> <table width="100%" border="0" cellspacing="0" cellpadding="3"> <tr> <td>Chapel Corner Senior Community is just what you are looking for, if you are 55 years young or older! <br>
+<br>
+Chapel Corner is located in the quiet Irvington District of Fremont.  <br>
+<br>
+We offer 58 1-bedroom apartments designed for a senior lifestyle. <br>
+Amenities include:<br>
+<br>
+Full kitchen with gas stove & microwave, walk-in closets, patio or balconies, we pay hot water & garbage.  Ceiling fans in bedroom and dinning area, elevator, emergency call system, on site laundry room and 24-hour maintenance service.  <br>
+<br>
+In the neighborhood: Lake Elizabeth and Fremont Senior Center which offers daily lunch and activities (for a small fee).  Fremont Hub, Safeway, Banks, Kaiser and Washington Hospital.  <br>
+<br>
+On a nice day enjoy our large community patio and sit among mature trees at this peaceful garden setting community.  Socialize in the beautifully decorated and comfortable community center; play bingo on Tuesday or enjoy a good home cooked meal on select holidays. <br>
+<br>
+If some quiet time is what you require, retreat to our multimedia room and watch a movie or read your favorite novel or catch up on current events from your newspaper. <br>
+<br>
+*Security Deposit $500.00 on approved application & credit/criminal check, additional deposit may be required. See Community Administrator for details.<br>
+<br>
+Small pets are welcome with a $400.00 Pet deposit<br>
+Apartments are approximately 575 sq. ft. <br>
+<br>
+OFFICE HOURS ARE: <br>
+Monday & Wednesday 8:30 -- 12:00<br>
+Tuesday, Thursday & Friday -- 8:00-12:00 -- 1:00-5:00<br>
+Closed Saturday and Sundays<br>
+<br>
+Please call (510) 226-1102 for more information and don't forget to mention you seen this ad on Craigslist!<br>
+<br>
+Chapel Corner Senior Apartments accepts Section 8. <br>
+<br>
+</td> </tr> </table>  </td> <td valign="top" width="5"><span style="padding-right: 5px;"></span></td> <td valign="top"><table width="100%" border="0" cellpadding="8" cellspacing="0" style="border-left: 1px solid #AD8E6E; border-right: 1px solid #AD8E6E; border-top: 1px solid #AD8E6E; border-bottom: 1px solid #AD8E6E;"> <tr> <td><img src="http://www.postlets.com/create/photos/20111014/155620_DSC00957.JPG" border="1" width="350" height="262"><br>
+</td> </tr> </table> </div> <table width="100%" border="0" cellspacing="0" cellpadding="0"> <tr> <td align="center"><table width="350" border="0" cellspacing="0" cellpadding="1"> <tr> <td height="25" align="center">see additional photos below</td> </tr></table></td> </tr> </table> </td> </tr> </table> </td> </tr> </table> </td> </tr>  <tr> <td colspan="2" valign="top" background="http://www.postlets.com/css/colors/FAF2C9.gif"><table width="724" border="0" cellpadding="4" cellspacing="0" style="border-left: 1px solid #E5D2BD; border-right: 1px solid #E5D2BD; border-top: 1px solid #E5D2BD; border-bottom: 1px solid #E5D2BD;"> <tr> <td align="left" background="http://www.postlets.com/css/colors/FFFEFD.gif"> <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center"> <tr align="center" valign="middle"> <td valign="top">  <table width="100%" border="0" cellspacing="0" cellpadding="3"> <tr> <td align="left"><div style="color: #AD8E6E;"><span style="font-weight: bold;">RENTAL FEATURES</span></div><hr size="1" noshade style="border-top: 1px solid #E5D2BD;"> <table width="100%" border="0" cellspacing="0" cellpadding="3"><tr>
+<td width="33%">- Air conditioning</td>
+<td width="33%">- Walk-in closet</td>
+<td width="33%">- Living room</td>
+</tr>
+<tr>
+<td width="33%">- Bonus/Rec room</td>
+<td width="33%">- Refrigerator</td>
+<td width="33%">- Stove/Oven</td>
+</tr>
+<tr>
+<td width="33%">- Microwave</td>
+<td width="33%">- Balcony, Deck, or Patio</td>
+<td width="33%">- Cable-ready</td>
+</tr>
+</table> </td> </tr> </table> <br>   <table width="100%" border="0" cellspacing="0" cellpadding="3"> <tr> <td align="left"><div style="color: #AD8E6E;"><span style="font-weight: bold;">COMMUNITY FEATURES</span></div> <hr size="1" noshade style="border-top: 1px solid #E5D2BD;"> <table width="100%" border="0" cellspacing="0" cellpadding="3"><tr>
+<td width="33%">- Guest parking</td>
+<td width="33%">- Laundry on-site</td>
+<td width="33%"> </td></tr>
+</table><p> </td> </tr> </table> <br>  <table width="100%" border="0" cellspacing="0" cellpadding="3"> <tr> <td align="left"><div style="color: #AD8E6E;"><span style="font-weight: bold;">LEASE TERMS</span></div> <hr size="1" noshade style="border-top: 1px solid #E5D2BD;"> 9 or 12 months </td> </tr> </table>  </td> </tr> </table> </td> </tr> </table> </td> </tr> <tr> <td colspan="2" valign="top" background="http://www.postlets.com/css/colors/FAF2C9.gif"><table width="724" border="0" cellpadding="4" cellspacing="0" style="border-left: 1px solid #E5D2BD; border-right: 1px solid #E5D2BD; border-top: 1px solid #E5D2BD; border-bottom: 1px solid #E5D2BD;"> <tr> <td align="left" background="http://www.postlets.com/css/colors/FFFEFD.gif"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center"> <tr align="center" valign="middle"> <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="3"><tr> <td valign="top" align="left"><div style="color: #AD8E6E;"><span style="font-weight: bold;">ADDITIONAL PHOTOS</span></div> <hr size="1" noshade style="border-top: 1px solid #E5D2BD;"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center"><tr align="center" valign="top"><td height="262"><div align="center" style="padding-left: 2px; padding-right: 2px; padding-top: 2px; padding-bottom: 2px;"><img src="http://www.postlets.com/create/photos/20111014/155620_DSC00957.JPG" border="0" width="344"><br>Community Patio</div></td><td><div align="center" style="padding-left: 2px; padding-right: 2px; padding-top: 2px; padding-bottom: 2px;"><img src="http://www.postlets.com/create/photos/20111014/155749_multimediaroom.JPG" border="0" width="344"><br>Multimedia Room</div><tr align="center" valign="top"><td height="262"><div align="center" style="padding-left: 2px; padding-right: 2px; padding-top: 2px; padding-bottom: 2px;"><img src="http://www.postlets.com/create/photos/20111014/155858_patio_view.JPG" border="0" width="344"><br>Photo 1</div></td><td><div align="center" style="padding-left: 2px; padding-right: 2px; padding-top: 2px; padding-bottom: 2px;"><img src="http://www.postlets.com/create/photos/20111014/160031_recroom3.JPG" border="0" width="344"><br>Community Recreation Room</div><tr align="center" valign="top"><td height="262"><div align="center" style="padding-left: 2px; padding-right: 2px; padding-top: 2px; padding-bottom: 2px;"><img src="http://www.postlets.com/create/photos/20111014/155022_Livingroom.JPG" border="0" width="344"><br>Photo 1</div></td><td><span style="padding-right: 5px;"></span></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr><tr> <td width="50%" valign="top" align="left" background="http://www.postlets.com/css/colors/FAF2C9.gif"> <table width="350" border="0" cellpadding="0" cellspacing="1" style="border-left: 1px solid #FAF2C9; border-right: 2px solid #FFFEFD; border-top: 1px solid #FAF2C9; border-bottom: 1px solid #FAF2C9;"> <tr> <td><table width="100%" border="0" cellpadding="5" cellspacing="0"> <tr> <td><div style="color: #AD8E6E;"><span style="font-weight: bold;">  Contact info: </span></div></td> </tr> <tr> <td><table width="100%" border="0" cellspacing="0" cellpadding="0"> <tr valign="top"> <td width="35"><span style="padding-right: 5px;"></span></td>
+ <td><table width="100%" border="0" cellspacing="0" cellpadding="2"> <tr><td><div style="color: #000000;">Coleen</div></td></tr>
+<tr><td><div style="color: #000000;">Barcelon Associates Mgmnt., Corp.</div></td></tr>
+<tr><td><div style="color: #000000;">(510) 226-1102</div></td></tr>
+ </table></td> </tr> </table><br></td> </tr> </table></td> </tr> </table></td></tr> </table></td></tr> <tr> <td><table width="100%" border="0" cellspacing="0" cellpadding="0"> <tr>  <td align="right" background="http://www.postlets.com/css/colors/FAF2C9.gif">Equal Opportunity Housing<div style="color: #6397140;"></div></td> <td width="35" align="right" background="http://www.postlets.com/css/colors/FAF2C9.gif"><span style="padding-left: 5px; padding-right: 5px;"><img src="http://www.postlets.com/images/eoh_logo.gif" width="24" height="18"></span></td> </tr> </table> </td> </tr><tr><td background="http://www.postlets.com/css/colors/FFFFFF.gif"><span style="padding-left: 5px; padding-right: 5px;"><img src="http://www.postlets.com/images/powered-by-postlets.png" alt="Powered by Postlets" width="200" height="59" border="0"></span></td></tr> </table></td> </tr> </table> <table width="740" border="0" cellspacing="0" cellpadding="0"> <tr> <td height="20" align="left" valign="middle"><div style="background-color: #AD8E6E; color: Linen; padding-left: 5px; padding-right: 5px; padding-top: 5px; padding-bottom: 5px;"><font size="2">Posted: Feb 8, 2012, 7:12am PST</font></div></td> </tr> </table></td></tr> </table></font></div>
+<!-- START CLTAGS -->
+
+
+<br><br>
+			<!-- CLTAG xstreet0=40455 Chapel Way -->
+			<!-- CLTAG xstreet1=High Street -->
+			<!-- CLTAG city=Fremont -->
+			<!-- CLTAG region=CA -->
+			40455 Chapel Way
+			<small>
+				(<a target="_blank" href="http://maps.google.com/?q=loc%3A+%34%30%34%35%35+Chapel+Way+Fremont+CA+US">google map</a>)
+				(<a target="_blank" href="http://maps.yahoo.com/maps_result?addr=%34%30%34%35%35+Chapel+Way&amp;csz=Fremont+CA&amp;country=US">yahoo map</a>)
+			</small>
+		<ul class="blurbs">
+<li><!-- CLTAG catsAreOK=on -->cats are OK - purrr</li>
+<li><!-- CLTAG dogsAreOK=on -->dogs are OK - wooof</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-02-13T08:36:30-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/eby/apa/2841075808.html</dc:source>
+<dc:title><![CDATA[Newly Remodeled Apt. for 55 and over! (fremont / union city / newark) $1000 1bd 580sqft]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-02-13T08:36:30-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/sfc/apa/2832961235.html">
+<title><![CDATA[Stylish nice in-law APT! Utilities included!!! (twin peaks / diamond hts) $1695 1bd]]></title>
+<link>http://sfbay.craigslist.org/sfc/apa/2832961235.html</link>
+<description><![CDATA[412 Portola @ Glenview
+<p>
+Showing on Thursday FEB 16TH at 5:45 p.m. - 6:00 p.m.  Please arrive at 5:45 p.m. sharp.  Thanks!
+<p>
+PHOTOS <a href="http://www.rentalsinsf.com/rental.php?id=775" rel="nofollow">http://www.rentalsinsf.com/rental.php?id=775</a>
+<p>
+Enter a shared foyer that leads to this one bedroom IN LAW apartment. There are wood floors throughout. There is a living room/dining combo with an open kitchen with granite counters, gas stove, microwave and refrigerator. Good sized bedroom with one large closet. Lovely tiled full bath with jacuzzi tub and shower.
+<p>
+Located near Tower Market shopping center and close to many major transportation lines - #37, #48, #52, short walk to Forest Hills Station.
+<p>
+*One year lease
+<br>
+*Security deposit is 1.5 months rent
+<br>
+*Utilities included (water, garbage & PG&E)
+<p>
+*Shared back patio
+<br>
+*One SMALL pet negotiable (15 lbs or under only). 
+<p>
+*Easy street parking 
+<p>
+*Laundry mat very near by - only 2 minutes away!
+<br>
+Laundry Mat Address: <a href="http://sanfrancisco.citysearch.com/profile/631814120/san_francisco_ca/wash_1.html#profileTab-maps" rel="nofollow">http://sanfrancisco.citysearch.com/profile/631814120/san_francisco_ca/wash_1.html#profileTab-maps</a>
+<br>
+Direction: <a href="http://www.mapquest.com/" rel="nofollow">http://www.mapquest.com/</a>
+<p>
+Sheri Castilyn - Leasing Agent for Owner License # 01349629 / Broker Rentals In SF 1318 Hayes Street San Francisco CA 94117.
+<p>
+Rental listings subject to change at any time. (Agent) believes all information contained herein to be correct but assumes no legal responsibility for the accuracy, any errors, or any omissions. <!-- START CLTAGS -->
+
+
+<br><br>
+			<!-- CLTAG xstreet0=Portola -->
+			<!-- CLTAG xstreet1=Glenview -->
+			<!-- CLTAG city=San Francisco -->
+			<!-- CLTAG region=CA -->
+			Portola at Glenview
+			<small>
+				(<a target="_blank" href="http://maps.google.com/?q=loc%3A+Portola+at+Glenview+San+Francisco+CA+US">google map</a>)
+				(<a target="_blank" href="http://maps.yahoo.com/maps_result?addr=Portola+at+Glenview&amp;csz=San+Francisco+CA&amp;country=US">yahoo map</a>)
+			</small>
+		<ul class="blurbs">
+<li><!-- CLTAG catsAreOK=on -->cats are OK - purrr</li>
+<li><!-- CLTAG dogsAreOK=on -->dogs are OK - wooof</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-02-15T13:43:47-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/sfc/apa/2832961235.html</dc:source>
+<dc:title><![CDATA[Stylish nice in-law APT! Utilities included!!! (twin peaks / diamond hts) $1695 1bd]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-02-15T13:43:47-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/nby/apa/2830201397.html">
+<title><![CDATA[3 bed/2bath House for Rent (santa rosa) $2000 3bd]]></title>
+<link>http://sfbay.craigslist.org/nby/apa/2830201397.html</link>
+<description><![CDATA[3 bedroom, 2 bath on close to town nice country parcel. Great hardwood floors. Home has an amazing kitchen with Viking stove and refrigerator. Living room has fireplace and there is a bonus room. Circular drive and carport. Includes washer and dryer! <br>
+<br>
+No pets or smokers but owner will consider small, well behaved dog with extra deposit. <br>
+Must have good credit. One year lease at $2000 per month, $2500 Security deposit.<br>
+<br>
+For more information on this or other listings, contact Beth Robertson.<br>
+Beth Robertson CRB, CRS, SRES, e-PRO<br>
+Phone: 707-483-6566 <br>
+email: beth@bethrobertson.com<!-- START CLTAGS -->
+
+
+<br><br>
+			<!-- CLTAG xstreet0=529 Mountain View -->
+			<!-- CLTAG xstreet1= -->
+			<!-- CLTAG city=Santa Rosa -->
+			<!-- CLTAG region=CA -->
+			529 Mountain View
+			<small>
+				(<a target="_blank" href="http://maps.google.com/?q=loc%3A+%35%32%39+Mountain+View+Santa+Rosa+CA+US">google map</a>)
+				(<a target="_blank" href="http://maps.yahoo.com/maps_result?addr=%35%32%39+Mountain+View&amp;csz=Santa+Rosa+CA&amp;country=US">yahoo map</a>)
+			</small>
+		<ul class="blurbs">
+<li><!-- CLTAG dogsAreOK=on -->dogs are OK - wooof</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-02-15T08:25:20-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/nby/apa/2830201397.html</dc:source>
+<dc:title><![CDATA[3 bed/2bath House for Rent (santa rosa) $2000 3bd]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-02-15T08:25:20-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/nby/apa/2823705417.html">
+<title><![CDATA[Large 3 Bd/2.5 Ba Bennett Valley Home w/Free Water (santa rosa) $1650 3bd]]></title>
+<link>http://sfbay.craigslist.org/nby/apa/2823705417.html</link>
+<description><![CDATA[Huge 3 bd/2.5 bath townhouse-style duplex in desirable Bennett Valley!<br>
+<br>
+Features:<br>
+Attached 2 car garage, & off street parking<br>
+Central heat & AC, Fireplace<br>
+Large, private backyard. Also another patio off of dining room<br>
+Lots of storage & closet space throughout<br>
+Laundry room with washer/dryer hookups<br>
+<br>
+Free water! Water/sewer bill paid for by owner<br>
+Approximately 1350-1375 sq ft<br>
+Desirable location on quiet street (Tachevah Dr) in an excellent school district<br>
+<br>
+Close to shopping, public transportation, Galvin Park (which has a nice dog park) & Bennett Valley Golf Course, & freeway access<br>
+You can also walk to CVS, Safeway, or to one of the many great restaurants nearby<br>
+<br>
+This home was thoroughly & professionally redone! Remodeled a few years ago: kitchen, fridge, dishwasher, bathrooms, etc.     <br>
+<br>
+We expect to have it move-in ready in mid-February.  Email request to see more photos.<br>
+<br>
+Rent is $1650 (includes water & sewer)<br>
+Security Deposit: $1850<br>
+A small to mid-size dog or cat allowed with increase in monthly rent by $50/pet/mo, and increased deposit. Or, large increase in deposit and little increase in rent.<br>
+<br>
+Our wish is that you leave the home in good condition and get your whole security deposit back.<br>
+<br>
+Please reply to this email if interested, and include the following information:<br>
+- timeframe for moving, with earliest possible move-in date<br>
+- # of people<br>
+- any pets? How many, what age, and what breed?<br>
+- income and employment (we especially need to know if you meet our minimum income requirements of between 2.2-3 times the rent)<br>
+- Email, phone #, and the best way to reach you<br>
+- When are you available to view the home?<br>
+<!-- START CLTAGS -->
+
+
+<br><br>
+			<!-- CLTAG xstreet0=Tachevah Dr -->
+			<!-- CLTAG xstreet1=Bethards Dr -->
+			<!-- CLTAG city=Santa Rosa -->
+			<!-- CLTAG region=CA -->
+			Tachevah Dr at Bethards Dr
+			<small>
+				(<a target="_blank" href="http://maps.google.com/?q=loc%3A+Tachevah+Dr+at+Bethards+Dr+Santa+Rosa+CA+US">google map</a>)
+				(<a target="_blank" href="http://maps.yahoo.com/maps_result?addr=Tachevah+Dr+at+Bethards+Dr&amp;csz=Santa+Rosa+CA&amp;country=US">yahoo map</a>)
+			</small>
+		<ul class="blurbs">
+<li><!-- CLTAG catsAreOK=on -->cats are OK - purrr</li>
+<li><!-- CLTAG dogsAreOK=on -->dogs are OK - wooof</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-02-12T07:33:44-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/nby/apa/2823705417.html</dc:source>
+<dc:title><![CDATA[Large 3 Bd/2.5 Ba Bennett Valley Home w/Free Water (santa rosa) $1650 3bd]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-02-12T07:33:44-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/eby/apa/2808140225.html">
+<title><![CDATA[Beautifully Remodeled, Spacious in a Good Location with Carport  (vallejo / benicia) $890 1bd]]></title>
+<link>http://sfbay.craigslist.org/eby/apa/2808140225.html</link>
+<description><![CDATA[This is a really nice, very large flat in a charming 1930's Mediterranean (4 plex) style building in the downtown Vallejo district. This remodeled large downstairs unit consists of one bedroom, one bath, dining room, living room, extra room for storage and a beautiful kitchen. <br>
+<br>
+Features:<br>
+�	Brand new kitchen with all new appliances and cabinetry<br>
+�	Brand new dishwasher, gas stove, microwave and refrigerator all energy efficient <br>
+�	Granite counter tops<br>
+�	Brand new bathroom with beautiful designer tiles & fresh paint in all rooms<br>
+�	Refinished hard wood floor<br>
+�	High ceilings with lots of window and light and ceiling fans<br>
+�	6 rooms (bedroom, bathroom with tub and shower, dining room, living room, extra storage and spacious kitchen)<br>
+�	950 square feet of space with lots of storage<br>
+�	One carport <br>
+�	Quiet neighborhood<br>
+�	Two miles to the Vallejo Ferry, easy Freeway access and one block away from the park <br>
+�	Rent includes water and carport <br>
+�	Pets are okay with $45 pet rent<br>
+�	Non-smoker & one year lease minimum (looking for a long term tenant)<br>
+�	Available now<br>
+�	Address is 1014 Marin St<br>
+<br>
+Call for an appointment: (925) 323-3917<br>
+<!-- START CLTAGS -->
+
+
+<br><br>
+			<!-- CLTAG xstreet0=1014 Marin St -->
+			<!-- CLTAG xstreet1= -->
+			<!-- CLTAG city=Vallejo -->
+			<!-- CLTAG region=Ca -->
+			1014 Marin St
+			<small>
+				(<a target="_blank" href="http://maps.google.com/?q=loc%3A+%31%30%31%34+Marin+St+Vallejo+Ca+US">google map</a>)
+				(<a target="_blank" href="http://maps.yahoo.com/maps_result?addr=%31%30%31%34+Marin+St&amp;csz=Vallejo+Ca&amp;country=US">yahoo map</a>)
+			</small>
+		<ul class="blurbs">
+<li><!-- CLTAG catsAreOK=on -->cats are OK - purrr</li>
+<li><!-- CLTAG dogsAreOK=on -->dogs are OK - wooof</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-02-15T09:11:10-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/eby/apa/2808140225.html</dc:source>
+<dc:title><![CDATA[Beautifully Remodeled, Spacious in a Good Location with Carport  (vallejo / benicia) $890 1bd]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-02-15T09:11:10-08:00</dcterms:issued>
+</item>
+</rdf:RDF>

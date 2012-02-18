@@ -1,0 +1,5 @@
+This project attempts to scrape results from Craigslist given a search url (or preferences as specified in a YAML file), then email the posters who have left contact emails with a completed form letter.
+
+This is a work in progress.
+
+Don't use this for spam.
