@@ -14,7 +14,14 @@ describe "webscraper" do
     @webscraper.req_hash["min_price"].should be_a(Fixnum)
     @webscraper.req_hash["max_price"].should be_a(Fixnum)
   end
-
+  
+  it "implements a command line interface" do
+    ##
+  end
+  
+  it "ensures that search url includes format = rss command" do 
+    # code
+  end
   
   it "finds all links on a results page" do
     # fill in test here

@@ -1,0 +1,3 @@
+Whoa, slow down -- that's not a search url, and it's not a valid command!  Need a hand with this program?
+Alright, let's go over this again: if you want to quit, just type q and hit enter.
+If you want to use the scraper, just go and do a search on Craigslist.org with all of your preferences set, and once it returns the results, look up at the URL bar.  Copy its contends to the command line and hit enter.  Simple, right?  Give it a go.

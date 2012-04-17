@@ -1,0 +1,13 @@
+From: #Our_Email
+To: #Sender_Email
+Date: #Date
+
+Hi.  I saw your post on craigslist when I was browsing.  I really like this unit, and I'd let to set up a walk-through.  I particularly like the part about "#random_string_from_post", that's pretty nice!
+
+Just so we're on the same page, I'm talking about this post: #Link
+
+Reply back if you'd consider renting to me.
+
+Hoping to hear back,
+
+#Our_First_Name #Our_Last_Name
