@@ -186,7 +186,9 @@ class Webscraper
   
 end
 
-form_letter_template = open("Form_letter.txt").read
-wbs = Webscraper.new
-wbs.run
+#test
+
+# form_letter_template = open("Form_letter.txt").read
+# wbs = Webscraper.new
+# wbs.run
 #puts wbs.construct_form_letter_string(form_letter_template,"sbarta@gmail.com")
