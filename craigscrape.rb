@@ -36,6 +36,7 @@ class Webscraper
     #report_results
   end
   
+
   def extract_rss_link_info(rss_url)
     result_hash = {} #doing as hash
     open(rss_url) do |content|
@@ -128,7 +129,6 @@ class Webscraper
     post_string.gsub(%r{</?[^>]+?>}, '')
   end
       
-
   
   def construct_form_letter_string(template_string, sender_email)
     output = template_string
@@ -158,12 +158,9 @@ class Webscraper
   
   
   
-  def format_search_url url_string
-    url_string.end_with?("&format=rss") ? url_string : url_string + "&format=rss"
-  end
+  
   
 end
-
 #test
 
 # form_letter_template = open("Form_letter.txt").read
