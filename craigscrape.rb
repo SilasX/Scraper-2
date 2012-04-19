@@ -55,22 +55,7 @@ class Webscraper
     @postings_hash = result_hash # keys = posting titles, values = posting URLs
   end
   
-  def collect_valid_emails
-    @postings_hash.each do |key, value|
-      open(value) do |f| 
-        match_obj = f.read.match("mailto:")
-        if match_obj != nil
-          email_string = match_obj.post_match
-          email_string = email_string.match(/[?]/).pre_match
-          @email_hash[email_string]= { :title => key, # hash of hashes
-                                       :url => value,
-                                       :text => extract_post_body(value)
-                                     }
-          #puts @email_hash[email_string]
-        end
-      end
-    end
-  end
+  
   
   def email_posters
     @email_hash.each do |email, post_title|

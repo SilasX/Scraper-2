@@ -1,0 +1,1453 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://sfbay.craigslist.org/search/sof?format=rss&#x26;amp;query=ruby&#x26;amp;srchType=A">
+<title>craigslist SF bay area | software/QA/DBA/etc jobs search &#x22;ruby&#x22;</title>
+<link>http://sfbay.craigslist.org/search/sof?query=ruby&#x26;amp;srchType=A</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://sfbay.craigslist.org/search/sof?format=rss&#x26;amp;query=ruby&#x26;amp;srchType=A</dc:source>
+<dc:title>craigslist SF bay area | software/QA/DBA/etc jobs search &#x22;ruby&#x22;</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2012-04-18T15:20:33-07:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/pen/sof/2965690199.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/sby/sof/2965317763.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/sfc/sof/2963508414.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/sfc/sof/2963506434.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/sby/sof/2963299044.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/sfc/sof/2963191745.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/nby/sof/2963124055.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/sfc/sof/2962158386.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/pen/sof/2961874052.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/sby/sof/2961392326.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/sfc/sof/2961313092.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/sfc/sof/2961240920.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/pen/sof/2961181884.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/pen/sof/2961161357.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/sfc/sof/2961149629.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/pen/sof/2960790956.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/sfc/sof/2960393869.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/pen/sof/2957439929.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/pen/sof/2957419433.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/eby/sof/2957041458.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/sfc/sof/2956587274.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/eby/sof/2956378494.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/sfc/sof/2954738726.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/pen/sof/2954706299.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/sfc/sof/2953529502.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://sfbay.craigslist.org/pen/sof/2965690199.html">
+<title><![CDATA[Sr Software Engineer - Web Backend (san mateo)]]></title>
+<link>http://sfbay.craigslist.org/pen/sof/2965690199.html</link>
+<description><![CDATA[<strong>Company:</strong>
+
+<p>MobileSpinach.com, a VC backed hyper local deals company in San Francisco (recently featured on TechCrunch, Venture Beat, & Mashable) is looking for world class software engineers to help us develop leading edge cloud based web applications.
+</p>
+<strong>Position: Sr Software Engineer -- Web Backend</strong>
+
+<strong>Description</strong>
+<p>
+We are searching for a leading edge developer who can help enhance our automated deals creation and merchant acquisition platform with leading edge development technologies and techniques.
+</p>
+<strong>Required:</strong>
+<ul>
+    <li>Hands on experience with MVC frameworks ( Django / python, Groovy on Grails, Ruby On Rails), & associated ORM layer.</li>
+    <li>Write server-side code for large scale web-based applications, create robust high-volume production applications, and develop prototypes quickly.</li>
+    <li>Ability to implement highly scalable server side REST API's to support consumer web applications together with client side Internet REST API integration.</li>
+    <li>Experience in database schema design and development including query optimization ideally with mysql.</li>
+    <li>BS, MS, or PhD in Computer Science or related technical discipline (or equivalent).</li>
+</ul>
+
+<strong>Desired</strong>
+<ul>
+    <li>Coding expertise in python and Django App framework</li>
+    <li>Hand on experience with Cloud based applications and API's, ideally Amazon Web Services.</li>
+    <li>Hands experience with git based source code control systems.</li>
+</ul>
+
+
+<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li>Principals only. Recruiters, please don't contact this job poster.</li>
+<li>Please, no phone calls about this job!</li>
+<li>Please do not contact job poster about other services, products or commercial interests.</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-04-18T12:43:01-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/pen/sof/2965690199.html</dc:source>
+<dc:title><![CDATA[Sr Software Engineer - Web Backend (san mateo)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-04-18T12:43:01-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/sby/sof/2965317763.html">
+<title><![CDATA[UNIX System Administrator (Postgres) (San Francisco, CA)]]></title>
+<link>http://sfbay.craigslist.org/sby/sof/2965317763.html</link>
+<description><![CDATA[<a href="http://www.jobscore.com/jobs/identified/list" rel="nofollow"><img src="http://www.jobscore.com/images/accounts/header_identified.jpg"></a><br><p>	 </p><p>	If you have a solid Unix  System Administration  experience and are  comfortable at a command line as you are in a datacenter and you  are not worried about getting your hands dirty and having a little fun at the same time, stop browsing the job boards and join us!</p><div>	<div>		 </div>	<div>		<span>Responsibilities</span>		<div>			- Assume technical ownership for all company hardware (physical and virtual)<br><div>				- Setup and maintain Postgres db</div>			<div>				- Write server build scripts</div>			<div>				- Troubleshoot hardware and system issues</div>			<div>				- Setup new server configurations</div>			<div>				- Potentially perform maintenance on hardware in colo (doesn't exist yet)</div>			<div>				- Assist with office IT issues				<div>					<div>						<img src="https://mail.google.com/mail/ca/images/cleardot.gif"></div>				</div>			</div>		</div>	</div>	<div>		Qualifications</div>	<div>		- Know Linux like the back of your hand</div>	<div>		- Are a Bash or Ruby scripting ninja</div>	<div>		- Consider "downtime" a four letter word (ok, two words)</div>	<div>		- Know a thing or two about databases</div>	<div>		- Respect the cloud</div>	<div>		 </div>	<div>		 </div>	<div>		The Stack</div>	<div>		- AWS EC2 </div>	<div>		- Ubuntu</div>	<div>		- Postgres</div>	<div>		- Apache</div>	<div>		- Phusion Passenger</div>	<div>		- Ruby on Rails</div>	<div>		- Chef</div></div><div>	 </div><div style="">	<div style="background-color: transparent; font-family: Times; font-size: medium;">		<b style="font-weight: normal;"><span>About Identified </span><br><br><span>Using Facebook data, Identified lets companies organize and rank candidates, and lets candidates see how they are ranked by companies. Identified analyzes the work history, education, and demographic data of 247 million Facebook users, and tracks the hiring behaviors of thousands of companies to produce an </span><span>Identified Score </span><span>for people, companies, and schools.</span><span> Over 2 million professionals and corporations access Identified Scores to evaluate career opportunities and make hiring decisions. Founded in 2010 and headquartered in San Francisco, Identified is the largest database of professional information based on Facebook. </span><br><br><span>Identified was conceived as a data research initiative at Stanford University's MBA and Engineer programs by Brendan Wallace and Adeyemi Ajao and grew virally across campus, signing up 80 percent of the university in just one week before being shut down by administration. Subsequently, Identified raised $5.5M from Innovation Endeavors, Draper Fisher Jurvetson's Tim Draper, Bill Draper  and others. For more information and to find out your Identified Score, visit</span><a href="http://www.identified.com/" target="_blank" rel="nofollow"><span> </span><span>www.identified.com</span></a><span>.</span></b></div></div><div style="">	<div>		<div>			 </div>	</div></div><p>	 </p><p><a href="http://www.sfatweb.com/track.aspx/28GUL" rel="nofollow">Click Here to Apply</a> <img src="http://www.sfatweb.com/track.aspx/28GV9"><!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=San Francisco, CA -->Location: San Francisco, CA</li>
+<li> <!-- CLTAG compensation=- -->Compensation: -</li>
+<li>Principals only. Recruiters, please don't contact this job poster.</li>
+<li>Please, no phone calls about this job!</li>
+<li>Please do not contact job poster about other services, products or commercial interests.</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-04-18T09:58:38-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/sby/sof/2965317763.html</dc:source>
+<dc:title><![CDATA[UNIX System Administrator (Postgres) (San Francisco, CA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-04-18T09:58:38-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/sfc/sof/2963508414.html">
+<title><![CDATA[500 Lead Software Engineer (San Francisco, CA)]]></title>
+<link>http://sfbay.craigslist.org/sfc/sof/2963508414.html</link>
+<description><![CDATA[Software AG is seeking a Lead Software Engineer. This position is for an HA Architect to work on evaluating our HA strategy and building test infrastructure that can provide specific recommendations. We're looking for someone who has experience building highly scalable real world applications. The HA Architect would bring his or her experience to help design infrastructure software that can help mainstream developers achieve the same levels of scalability through Terracotta. <br>
+<br>
+Evaluate the design and implementation of the HA capabilities in the Terracotta Server Array <br>
+Design and implement tests that can characterize the strengths and weaknesses of our current HA feature set in terms of performance and functionality in a hostile world<br>
+Terracotta product line exceeds customer expectations.<br>
+Design "torture" tests that simulate customer environments with faulty network, disk or other infrastructure.<br>
+Provide detailed reports, as documents and/or presentations, on the quality of features.<br>
+<br>
+REQUIREMENTS:<br>
+-BS or MS in Computer Science, or equivalent 5+ years professional experience.<br>
+<br>
+Strong knowledge of or experience with building and testing systems for scalability and availability<br>
+Familiarity with common java frameworks and containers such as Spring, Jetty, Hibernate, Ehcache, Quartz<br>
+Experience with UNIX<br>
+Experience with distributed caches, high availability products, and/or NoSQL solutions<br>
+<br>
+Strong knowledge of Java or other related programming languages<br>
+Strong Knowledge in at least one scripting language such as Perl or Ruby<br>
+<br>
+Design and implement an automated test framework that can provide feedback on the quality of our HA behaviour as we make changes<br>
+Work closely with other engineers to understand the product architecture<br>
+Diagnose and debug issues in a production environment<br>
+Experience with Java unit/functional test frameworks. <br>
+Strong team player<br>
+Strong communication skills (verbal and written) <br>
+<br>
+Please apply online via our website: <a href="http://www.softwareagusa.com/company/careers/jobpostings.asp" rel="nofollow">http://www.softwareagusa.com/company/careers/jobpostings.asp</a> and search for job #500. <!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=San Francisco, CA -->Location: San Francisco, CA</li>
+<li> <!-- CLTAG compensation=Competitive -->Compensation: Competitive</li>
+<li>Principals only. Recruiters, please don't contact this job poster.</li>
+<li>Please, no phone calls about this job!</li>
+<li>Please do not contact job poster about other services, products or commercial interests.</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-04-17T11:05:02-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/sfc/sof/2963508414.html</dc:source>
+<dc:title><![CDATA[500 Lead Software Engineer (San Francisco, CA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-04-17T11:05:02-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/sfc/sof/2963506434.html">
+<title><![CDATA[LAMP Programmers Wanted for Profitable Startup]]></title>
+<link>http://sfbay.craigslist.org/sfc/sof/2963506434.html</link>
+<description><![CDATA[<img src="http://img685.imageshack.us/img685/4958/cklogo.gif" border="0"></a><br>
+<br>
+
+<b>Credit Karma</b> is a funded financial services start-up located in sunny(ish) SOMA, San Francisco, and we just hit 5 million users! With all of this growth, we're<br>
+looking for a few talented engineers to help us handle the current demand and grow with us as we aim to hit 10 million users by the end of 2012!<br>
+<br>
+As a CK Engineer, you'll get involved early in the product development cycle, working with a product manager to lay out features intelligently. You'll be in charge<br>
+of all aspects of your project - figuring out how it should be architected, designing the DB schema, writing the code, and making sure that loose ends are tied up.<br>
+Along the way, you'll also coordinate with our QA team to make sure your feature is correctly tested.<br>
+<br>
+<br>
+<b>Qualifications</b><br>
+1. Proficient in at least one dynamic server-side language (PHP, Python, Ruby, Perl, or similar).<br>
+2. Expert understanding of web application internals and common technologies.<br>
+3. Experience writing and optimizing SQL queries.<br>
+4. Familiarity with common web security flaws.<br>
+5. Solid grasp of performance and scaling issues in web applications.<br>
+<br>
+We're looking for a quick thinking technology enthusiast who understands how important quality is to the overall product.<br>
+<br>
+<b>Working at Credit Karma!</b><br>
+We help over 5 million consumers improve their financial situation through a completely free online credit management<br>
+service. Our San Francisco office is beautifully situated a few blocks from AT&T Ballpark, and one of our friendly office<br>
+pups will greet you at the door in the morning. We also offer:<br>
+<br>
+- <b>Competitive salaries</b><br>
+- <b>Health and Dental Insurance (Credit Karma pays for 85% of the plan for Employee and Spouse!)</b> <br>
+- <b>401(k) plan</b><br>
+- <b>Stock Options!</b><br>
+- <b>A well-stocked kitchen featuring greek yogurt, clif bars, and a respectable array of beverages</b><br>
+- <b>Excellent taste in music</b><br>
+- <b>Frisbee and dart gun breaks</b><br>
+- <b>and our personal favorite.........Awful/Amazing Movie Nights every other Thursday</b><br>
+<br>
+If you have a good attitude and the skills that pay the proverbial bills, then we'd love to talk to you!<br> <!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG compensation=DOE -->Compensation: DOE</li>
+<li>Principals only. Recruiters, please don't contact this job poster.</li>
+<li>Please, no phone calls about this job!</li>
+<li>Please do not contact job poster about other services, products or commercial interests.</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-04-17T11:04:12-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/sfc/sof/2963506434.html</dc:source>
+<dc:title><![CDATA[LAMP Programmers Wanted for Profitable Startup]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-04-17T11:04:12-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/sby/sof/2963299044.html">
+<title><![CDATA[Big Data Engineer @ Rhythm New Media (mountain view)]]></title>
+<link>http://sfbay.craigslist.org/sby/sof/2963299044.html</link>
+<description><![CDATA[<h3>Ruby on Rails Engineer</h3>
+<b>Company:</b>Rhythm NewMedia - <a href="http://www.rhythmnewmedia.com/" target="_blank" rel="nofollow">http://www.rhythmnewmedia.com/</a><br>
+<b>Location:</b> <a href="http://maps.google.com/maps?q=800+West+El+Camino+Real,+Suite+100+Mountain+View,+CA&amp;hl=en&amp;sll=37.386052,-122.083851&amp;sspn=0.076654,0.146942&amp;hnear=800+W+El+Camino+Real+%23100,+Mountain+View,+California+94040&amp;t=m&amp;z=16" target="_blank" rel="nofollow">800 West El Camino Real Suite 100, Mountain View, CA 94040</a><br>
+<br>
+
+<b>The Company: </b><br>
+Rhythm New Media connects brand advertisers with today's high-engaged mobile audience by selling as well as serving video, rich media and other immersive advertising. Our media partners include NBC Universal, CBS, Sony, ABS, Fox, Warner Bros, IAC, Demand Media and many more! In 2011 we ran more than 200 campaigns with top brand advertisers including P&G, Unilever, Disney, Chase, McDonald's, General Motors, AT&T, Verizon, Macy's HP and Microsoft and achieved unprecedented engagement results. <br>
+<br>
+Come join our team and get the chance to work in the exciting field of mobile web browser advertising!!  <br>
+<br>
+<b>The Role: </b>
+<br>
+We're looking for a Big Data Engineer to join our Mountain View team who can make a major contribution to our data analysis platform. You will have the opportunity to work on an analytics platform that will change the way brand advertising works! In this role you have the chance to build out a major software system with a small team of smart and dedicated engineers.    <br>
+<br>
+<b>Our Ideal Candidate:</b><br>
+* Experience with MapReduce/Hadoop or noSQL databases (bonus points for Cassandra)  <br>
+* Experience with object oriented programming (e.g. Java, Ruby, and lots of Bourne shell scripting)  <br>
+* Experience with large scale data analysis on a distributed/clustered system <br>
+<br>
+<b>Bonus Points For:</b><br>
+* Being an outstanding programmer with a track record of writing quality code  <br>
+* Strong background in computer science, math, and statistical analysis  <br>
+* Working knowledge of ETL and industry data analysis and business intelligence tools <br>
+* Demonstrated ability to solve hard computing problems<br>
+<br>
+<b>What We Can Offer:</b><br>
+* Competitive salary  </br>
+* Accessible by CalTrain and MVT; (lots of onsite parking too!) <br>
+* Fridge full of snacks and several catered meals an month <br>
+* Great Mountain View location -- downtown and close to restaurants, cafes, nightlife <br>
+<br>
+<b>Things to Know: </b><br>
+* This is a full time on-site position in Mountain View, CA.<br>
+<br>
+<b>How To Apply: </b><br>
+* <a href="http://www.captainrecruiter.com" target="_blank" rel="nofollow">Captain Recruiter</a> will be the first point of contact.<br>
+* All applications receive a response. <br>
+* All applications are kept strictly confidential. <br>
+* To apply, <a href="http://www.captainrecruiter.com/jobs/306/applications/new" target="_blank" rel="nofollow">click here</a>.<br><!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG compensation=Competitive plus perks and benefits -->Compensation: Competitive plus perks and benefits</li>
+<li>Principals only. Recruiters, please don't contact this job poster.</li>
+<li>Please, no phone calls about this job!</li>
+<li>Please do not contact job poster about other services, products or commercial interests.</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-04-17T09:34:10-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/sby/sof/2963299044.html</dc:source>
+<dc:title><![CDATA[Big Data Engineer @ Rhythm New Media (mountain view)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-04-17T09:34:10-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/sfc/sof/2963191745.html">
+<title><![CDATA[ZocDoc - Software Engineer (New York City)]]></title>
+<link>http://sfbay.craigslist.org/sfc/sof/2963191745.html</link>
+<description><![CDATA[<img src="http://www.zocdoc.com/images/Logo_nobeta_sm.gif"><br>
+<p><strong>What we're looking for</strong><br>
+ZocDoc is seeking software engineers who want to use serious CS skills to build technology that really helps people. You enjoy a good conversation about theory or architecture, but you are happiest writing code and turning those ideas into usable products. You care about the quality of your code and products more than anyone you know. You think about the experience of using your products as you're building them.<br>
+<br>
+<strong>Working at ZocDoc</strong><br>
+We were recently named the Best Place to Work in New York City by Crain's New York, which means that they asked everyone who works here how much they loved their job and everyone answered in the range of "a lot" to "a helluva lot." The truth is, we have a lot of fun doing our job. We get excited about <a target="_blank" href="http://codedoc.zocdoc.com/" rel="nofollow">sharing some new C# language feature or optimization strategy</a>. We go on semi-annual hackathons to remote, exotic places (like the Catskills and Long Island!). Pizza and beer are never far away. Neither are granola and tea, for that matter.<br>
+<br>
+<strong>Our Offices</strong><br>
+We work in a massive loft-y space in the heart of SoHo. Devs get top-notch gear (12gb RAM, 3 monitor setups, etc) and interact a lot with the rest of the team. <br>
+<br>
+<strong>We want someone who</strong><br>
+- Is experienced with an OOP language.<br>
+- Has used a relational or non-relational or ur-relational database.<br>
+- Is driven by an unknown force to change healthcare for the better.<br>
+- Likes thinking about performance. All. The. Time.<br>
+<br>
+<strong>As a ZocDoc employee you getï¿½</strong><br>
+- A feeling of accomplishing something genuinely useful to humanity.<br>
+- Relocation fees fully covered.<br>
+- A competitive salary.<br>
+- Free catered lunches every day.<br>
+- 100% employer-covered health insurance.<br>
+- Stock options.<br>
+- A hoverboard.*<br>
+<br>
+*subject to availability<br>
+<br>
+If this sounds like the gig for you, send us your resume and in your cover letter tell us what we should change to make our website, zocdoc.com, even better.<br>
+<br>
+<a href="http://www.zocdoc.com/careers/software-engineer-25/apply" rel="nofollow"><img src="http://www.zocdoc.com/images/careers/apply_bu.gif"></a>
+<br> 
+<br>
+<img src="http://www.zocdoc.com/images/craigslistPostDevSetup.jpg" border="0/">
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
+c# java asp.net aspx .net java jquery html website startup health complex web c++ php ruby scala agile mobile xhtml sql tsql mssql<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=New York City -->Location: New York City</li>
+<li>Principals only. Recruiters, please don't contact this job poster.</li>
+<li>Please, no phone calls about this job!</li>
+<li>Please do not contact job poster about other services, products or commercial interests.</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-04-17T08:46:16-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/sfc/sof/2963191745.html</dc:source>
+<dc:title><![CDATA[ZocDoc - Software Engineer (New York City)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-04-17T08:46:16-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/nby/sof/2963124055.html">
+<title><![CDATA[Sr. Ruby on Rails Engineer (San Rafael, Novato, Petaluma, Santa Rosa)]]></title>
+<link>http://sfbay.craigslist.org/nby/sof/2963124055.html</link>
+<description><![CDATA[Job Description<br>
+We're looking for an experienced Ruby on Rails developer with top-notch software design and coding skills. We prefer generalists who have lots of successes at every layer of the stack. <br>
+<br>
+This is a fulltime telecommuting position for individuals who are passionate about Ruby on Rails and looking for a challenging/rewarding position in an Agile, BDD/TDD development environment.<br>
+<br>
+What you'll be doing:<br>
+•	Architect, build, test and refine new products and services<br>
+•	Develop and expand infrastructure to scale with demand, providing fault-tolerance and predictability<br>
+•	Tackle a wide variety of coding problems throughout the stack -- we all work on everything<br>
+•	Brainstorm and prototype new concepts and approaches fast. Turn prototypes into real things<br>
+•	Troubleshoot and maintain production and testing environments. Contribute to diagnosing and solving performance issues whenever the occur<br>
+•	Be a team player in a highly collaborative environment<br>
+<br>
+Qualifications<br>
+•	BS degree in computer sciences or related area<br>
+•	10+ development experience -- with last 5+ years in Ruby on Rails<br>
+<br>
+Skills & Requirements<br>
+The ideal candidate:<br>
+•	Loves to code - able to design and write well-structured, easily maintainable, well-documented<br>
+•	Ambitious, driven, and talented individual who wants to work in an Agile development environment<br>
+•	Expert knowledge of Ruby on Rails and all layers of the stack (UI to DB)<br>
+•	Experienced in Behavioral/Test Driven Development (BDD/TDD)<br>
+•	Ability to work in a pairing environment (local and remote)<br>
+•	Demonstrable knowledge of AJAX, HTML, CSS and JavaScript (preferably leveraging jQuery)<br>
+•	Aggressive refactoring skills<br>
+•	Solid SQL skills, preferable with Postgres<br>
+•	Proficient in both Linux (production) and Mac OSX (development) environments preferred<br>
+•	Familiarity with Heroku & Amazon Web Services (EC2, S3, etc.) preferred.<br>
+•	Be eligible for employment in USA<br>
+<br>
+About Foodydirect.com<br>
+Foodydirect.com is a fast-paced startup whose mission is to become the web's leading marketplace for ordering the best regional gourmet food in the USA.  We have the cool vibe of a startup and the dependability of a proven management team and solid funding. We are headquartered in Menlo Park, and looking for the best talent in the North Bay area.<br>
+ <br>
+How To Apply?<br>
+Email us, with your resume and cover letter along with your salary requirements and availability.  Please reference "Ruby Engineer" in the subject line of the email.  <br>
+Give us your GitHub username or code sample and tell us about something you've built that you're proud of.<br>
+<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=San Rafael, Novato, Petaluma, Santa Rosa -->Location: San Rafael, Novato, Petaluma, Santa Rosa</li>
+<li> <!-- CLTAG compensation=commensurate with experience -->Compensation: commensurate with experience</li>
+<li> <!-- CLTAG telecommuting=on -->Telecommuting is ok.</li>
+<li>Principals only. Recruiters, please don't contact this job poster.</li>
+<li>Please, no phone calls about this job!</li>
+<li>Please do not contact job poster about other services, products or commercial interests.</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-04-17T08:14:37-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/nby/sof/2963124055.html</dc:source>
+<dc:title><![CDATA[Sr. Ruby on Rails Engineer (San Rafael, Novato, Petaluma, Santa Rosa)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-04-17T08:14:37-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/sfc/sof/2962158386.html">
+<title><![CDATA[Seeking Ruby on Rails Developer for Immediate Start (San Francisco)]]></title>
+<link>http://sfbay.craigslist.org/sfc/sof/2962158386.html</link>
+<description><![CDATA[Scripted.com Ruby on Rails Developer Position<br>
+Ruby on Rails Developer<br>
+Location: San Francisco, CA<br>
+Type: Full Time<br>
+Min. Experience: 1-2 Years<br>
+<br>
+Scripted.com is a venture-backed marketplace for freelance writers based in  San Francisco (funded by Crosslink Capital, who funded Pandora). Scripted.com currently has 80,000 writers and hundreds of paying customers who purchase blog posts, social media posts, and other types of written content from our writers. These customers range from multinational public companies like Levis and Viacom, to startups funded by Y Combinator.<br>
+<br>
+Press Mentions of Scripted:<br>
+TechCrunch: <a href="http://techcrunch.com/2012/02/15/writing-marketplace-scripted-com-gains-an-extra-150k-two-new-advisors/" rel="nofollow">http://techcrunch.com/2012/02/15/writing-marketplace-scripted-com-gains-an-extra-150k-two-new-advisors/</a><br>
+VentureBeat: <a href="http://venturebeat.com/2011/11/29/scripted-writers-small-businesses/" rel="nofollow">http://venturebeat.com/2011/11/29/scripted-writers-small-businesses/</a><br>
+CNN Money: <a href="http://finance.fortune.cnn.com/2011/11/29/venture-capital-deals-32/" rel="nofollow">http://finance.fortune.cnn.com/2011/11/29/venture-capital-deals-32/</a><br>
+<br>
+We are looking for a Ruby on Rails developer to join our web development team. You will be in charge of working with our Director of Product to make us the premiere marketplace writing marketplace on the planet!   <br>
+<br>
+We also will rely on you to develop elegant solutions to these problems:<br>
+<br>
+-	Create algorithms to vet writers, and match writers to businesses<br>
+-	Create a solution to rank writers within our community using a combo of CS and stats skills (including regression analysis)<br>
+-	Streamline the process for buyers to receive content, including re-vamping our editing process<br>
+<br>
+Responsibilities<br>
+• Drive and participate in feature requirements, architecture, and design specification reviews<br>
+• Work with the Director of Product to understand user requirements and design elegant solutions to problems at hand<br>
+• Work fast but get it done right!<br>
+<br>
+Requirements<br>
+• Bachelor's or Master's degree in Computer Science (or related technical discipline)<br>
+• Extensive experience with Ruby on Rails. <br>
+• Strong SQL skills and knowledge of database concepts; familiarity with one of the major databases a plus (Oracle, PostgreSQL, MySQL)<br>
+• Experience with OAuth, integration of 3rd party services (Twitter, Facebook, YouTube) and dealing with APIs is a major plus.<br>
+• Passion for building modern, intuitive and elegant user interfaces.<br>
+• Expert level experience with JavaScript, CSS, and AJAX development.<br>
+• Extensive experience with JavaScript frameworks such as JQuery, JQuery UI.<br>
+• Solid understanding of techniques used to optimize web performance.<br>
+• Experience using Git version control<br>
+• Excellent communication and written skills<br>
+<br>
+Salary / Benefits<br>
+• Competitive salary, equity participation, and full health coverage<br>
+• You will be an early employee (#8) and will get to make a significant impact on evolution of the company<br>
+<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=San Francisco -->Location: San Francisco</li>
+<li> <!-- CLTAG compensation=75k-95k depending on experience (plus stock options) -->Compensation: 75k-95k depending on experience (plus stock options)</li>
+<li>Principals only. Recruiters, please don't contact this job poster.</li>
+<li>Please, no phone calls about this job!</li>
+<li>Please do not contact job poster about other services, products or commercial interests.</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-04-16T16:03:31-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/sfc/sof/2962158386.html</dc:source>
+<dc:title><![CDATA[Seeking Ruby on Rails Developer for Immediate Start (San Francisco)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-04-16T16:03:31-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/pen/sof/2961874052.html">
+<title><![CDATA[Ruby on Rails Engineer @ Rhythm NewMedia (mountain view)]]></title>
+<link>http://sfbay.craigslist.org/pen/sof/2961874052.html</link>
+<description><![CDATA[<h3>Ruby on Rails Engineer</h3>
+<b>Company:</b>Rhythm NewMedia - <a href="http://www.rhythmnewmedia.com/" target="_blank" rel="nofollow">http://www.rhythmnewmedia.com/</a><br>
+<b>Location:</b> <a href="http://maps.google.com/maps?q=800+West+El+Camino+Real,+Suite+100+Mountain+View,+CA&amp;hl=en&amp;sll=37.386052,-122.083851&amp;sspn=0.076654,0.146942&amp;hnear=800+W+El+Camino+Real+%23100,+Mountain+View,+California+94040&amp;t=m&amp;z=16" target="_blank" rel="nofollow">800 West El Camino Real Suite 100, Mountain View, CA 94040</a><br>
+<br>
+
+<b>The Company: </b><br>
+Rhythm New Media connects brand advertisers with today's high-engaged mobile audience by selling as well as serving video, rich media and other immersive advertising. Our media partners include NBC Universal, CBS, Sony, ABS, Fox, Warner Bros, IAC, Demand Media and many more! In 2011 we ran more than 200 campaigns with top brand advertisers including P&G, Unilever, Disney, Chase, McDonald's, General Motors, AT&T, Verizon, Macy's HP and Microsoft and achieved unprecedented engagement results. <br>
+<br>
+Come join our team and get the chance to work in the exciting field of mobile web browser advertising!!  <br>
+<br>
+<b>The Role: </b>
+<br>
+We're looking for a Ruby on Rails Developer to join our Mountain View team who's designed, deployed and supported at least one RoR application. You'll help move our development efforts in building web applications forward. You'll work on projects for both internal and external customers and get the chance to build clean, user friendly interfaces and get to work in the fast moving field of mobile web browsers.  <br>
+<br>
+<b>Our Ideal Candidate:</b><br>
+* Has worked professionally on at least one Rails application -- if you know about duck typing and monkeypatching, we're psyched about you, keep reading! <br>
+* You should also be familiar with the full stack and making tools and apps end to end.  <br>
+* Familiar with Unit Testing.<br>
+<br>
+<b>What We Can Offer:</b><br>
+* Competitive salary  </br>
+* Accessible by CalTrain and MVT; (lots of onsite parking too!) <br>
+* Fridge full of snacks and several catered meals an month <br>
+* Great Mountain View location -- downtown and close to restaurants, cafes, nightlife <br>
+<br>
+<b>Things to Know: </b><br>
+* This is a full time on-site position in Mountain View, CA.<br>
+<br>
+<b>How To Apply: </b><br>
+* <a href="http://www.captainrecruiter.com" target="_blank" rel="nofollow">Captain Recruiter</a> will be the first point of contact.<br>
+* All applications receive a response. <br>
+* All applications are kept strictly confidential. <br>
+* To apply, <a href="http://www.captainrecruiter.com/jobs/307/applications/new" target="_blank" rel="nofollow">click here</a>.<br>
+<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG compensation=Benefits, Salary -->Compensation: Benefits, Salary</li>
+<li>Principals only. Recruiters, please don't contact this job poster.</li>
+<li>Please, no phone calls about this job!</li>
+<li>Please do not contact job poster about other services, products or commercial interests.</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-04-16T13:38:43-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/pen/sof/2961874052.html</dc:source>
+<dc:title><![CDATA[Ruby on Rails Engineer @ Rhythm NewMedia (mountain view)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-04-16T13:38:43-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/sby/sof/2961392326.html">
+<title><![CDATA[QA Manager - Employee #8 (mountain view)]]></title>
+<link>http://sfbay.craigslist.org/sby/sof/2961392326.html</link>
+<description><![CDATA[Koinz Media, a small, very exciting, well funded Internet startup, is looking for a hands-on QA Manager with strong organizational skills and experience verifying quality beyond web application UI into databases, APIs, logs, etc. <br>
+The QA Manager will report to the VP of Engineering and manage a small team.<br>
+<br>
+If you have been a QA Lead at a small startup and you are ready for your first QA Manager's job, this is the ideal position for you. <br>
+This job is about 50% hands-on QA duties and 50% QA management duties<br>
+<br>
+Full time salaried job with stock options and benefits.<br>
+<br>
+RESPONSIBILITIES:<br>
+• Oversee all aspects of quality assurance including establishing metrics, applying industry best practices, and developing new tools and processes to ensure quality goals are met<br>
+• Lead the maintenance and execution of test plans and procedures (manual and automated) for all the Koinz Platform services<br>
+• Develop REST API test programs<br>
+• Sign-off releases in an agile environment<br>
+• Manage onsite and offshore QA team members<br>
+• Assist Customer Support and Operations teams in investigating production issues<br>
+• Collaborate with VP to improve quality and customer satisfaction<br>
+<br>
+REQUIREMENTS:<br>
+• 4+ years of experience with web application testing in a small company<br>
+• 2+ years of experience being responsible for all quality aspects of a large web application<br>
+• Extreme attention to detail and commitment to high quality production standards<br>
+• Familiarity with Linux terminals<br>
+• Comfortable with SQL & XML<br>
+• Self-starter with the ability to handle multiple tasks simultaneously under pressure<br>
+• Team player with effective communication skills and a desire to collaborate<br>
+• Flexibility to coordinate with offshore team members outside of business hours<br>
+• BS in Computer Science or related technical field<br>
+• Prior experience at a small startup required<br>
+<br>
+BIG PLUS:<br>
+• B2C<br>
+• E-commerce, payment systems and/or financial services<br>
+• Ruby and/or Java <br>
+• Load testing<br>
+<br>
+<br>
+ABOUT KOINZ MEDIA<br>
+<br>
+Koinz Media allows consumers to easily and safely buy digital goods or services with their existing credit card reward points. U.S. consumers have more than $20 billion in annual purchasing power in their reward programs. Koinz Media unleashes that purchasing power by enabling consumers to redeem their reward points for premium digital goods and services like virtual currencies, social games, mobile applications, digital content and subscriptions, e-books, music, movies and much more.<br>
+<br>
+Koinz Media opens up a whole new channel of 150 million reward program members funded with over $10 billion in purchasing power.<br>
+We make it easy for these well-funded consumers to use their reward points to purchase your digital goods and services. Simply plug the turnkey Koinz Media payment platform into your site or application to enable easy, frictionless redemption, or add your digital goods to the Koinz Catalog to acquire new consumers and sell your products through hundreds of leading reward portals.<br>
+<br>
+Koinz Media enables Reward Programs to add an engaging new dimension to their reward redemptions by offering their members digital goods that they are passionate about! Nearly 700 million consumers spend billions of dollars annually on digital goods such as online and social games, music downloads, movies, e-books and more. Koinz Media's state-of-the-art technology platform helps reward portals enhance the value of their reward programs by offering their members a comprehensive catalog of the most popular digital goods and services.<br>
+<br>
+<br>
+Koinz Media is moving from Milpitas to Mountain View in a few months.<br>
+<br>
+<br>
+<br>
+If this looks like a match with your background, please send me a resume<br>
+<br>
+Thank you -<br>
+<br>
+Richard Phillips<br>
+Richard Phillips Recruiting<br>
+San Rafael, CA<br>
+Headhunter for technology startups<br>
+RichardPhillips123@comcast.net<br>
+415-721-7569<br>
+<br>
+About me:<br>
+<a href="http://www.linkedin.com/in/richardphillips" rel="nofollow">http://www.linkedin.com/in/richardphillips</a><br>
+(click on "View Full Profile" at bottom to see my references)<br>
+<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li>Principals only. Recruiters, please don't contact this job poster.</li>
+<li>Please, no phone calls about this job!</li>
+<li>Please do not contact job poster about other services, products or commercial interests.</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-04-16T10:07:54-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/sby/sof/2961392326.html</dc:source>
+<dc:title><![CDATA[QA Manager - Employee #8 (mountain view)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-04-16T10:07:54-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/sfc/sof/2961313092.html">
+<title><![CDATA[Ruby on Rails Developer @ Sleepy Giant (Telecommute/Remote)]]></title>
+<link>http://sfbay.craigslist.org/sfc/sof/2961313092.html</link>
+<description><![CDATA[<h3>Ruby on Rails Developer</h3>
+<p><b>Company: </b>Sleepy Giant - <a href="http://www.sleepygiant.com/" target="_blank" rel="nofollow">www.sleepygiant.com</a><br>
+  <b>Location:</b> Telecommute! to our Headquarters in Newport Beach, CA</a><br>
+<br>
+<b>The Company:</b><br>
+Sleepy Giant runs persistent online games and communities of all sizes. We specialize in working with game studios to get their games to market, through a blend of strategic planning, smart design, cutting edge technologies, rock solid operations and real-time marketing. Our team takes an analytical approach to games; matching and supporting our creative counterparts at development studios. Some of the partners we work with include Activision, Disney, SeaWorld and THQ.  <br>
+<br>
+<b>The Role:</b><br>
+* You'll be involved and contribute to game platforms from dev to deployment. <br>
+* You'll have the chance to architect and implement new components - including requirements gathering and documentation, re-factor or optimize components and more. <br>
+* Interact with clients - discuss technical issues, address questions and concerns they may have. <br>
+<br>
+<b>Our Ideal Candidate Is:</b><br>
+* A software developer who's worked on at least 1 Ruby on Rails application in a professional setting, and is anxious to dig into game platform development.<br>
+* Looking for a role where you can come in prove yourself and move up in the ranks.<br>
+* Loves games and want a chance to be involved from platform dev to deploy.<br>
+<br>
+In summary:  You're looking for more Ruby experience to bolster your skills.  You're looking for a chance to move in and move up.  You own your projects and not only manage but understand the ins and outs of them from step A to step Z - you're self-motivated, detail-oriented and organized. <br>
+<p>
+<b>You Can Look Forward To:</b><br>
+* Our team is talented and small - your contribution will matter.<br>
+* Growth opportunities. The company plans on growing quickly. As we grow, 
+there will be advancement opportunities for management, software architecture, etc.<br>
+* Great perks! We are committed to our team's high quality of life, including an excellent benefits 
+package:<br>
+- full medical, dental, vision. benefits<br>
+- 401K <br>
+- stock option plan in the works!<br>
+- fully stocked pantry and bagels monday<br>
+- Paid vacations days<br>
+<br>
+<b>Notes:</b><br>
+* We're open to Contractors or Full Time Employees. <br>
+* Sleepy Giant is unable to sponsor or transfer work visas at this time. <br>
+
+<p><b>How To Apply:</b><br>
+  * <a href="http://www.captainrecruiter.com" target="_blank" rel="nofollow">Captain Recruiter</a> will be the first point of contact.<br>
+  * All applications receive a response.<br>
+  * All applications are kept strictly confidential.<br>
+  * To apply, <a href="http://captainrecruiter.com/jobs/308/applications/new" target="_blank" rel="nofollow">click here</a>.</p>
+<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Telecommute/Remote -->Location: Telecommute/Remote</li>
+<li> <!-- CLTAG telecommuting=on -->Telecommuting is ok.</li>
+<li>Principals only. Recruiters, please don't contact this job poster.</li>
+<li>Please, no phone calls about this job!</li>
+<li>Please do not contact job poster about other services, products or commercial interests.</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-04-16T09:34:15-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/sfc/sof/2961313092.html</dc:source>
+<dc:title><![CDATA[Ruby on Rails Developer @ Sleepy Giant (Telecommute/Remote)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-04-16T09:34:15-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/sfc/sof/2961240920.html">
+<title><![CDATA[Senior Developer in Test (financial district)]]></title>
+<link>http://sfbay.craigslist.org/sfc/sof/2961240920.html</link>
+<description><![CDATA[Mocana secures the "Internet of Things" - the 20 billion non-PC devices that are increasingly connecting to networks across every sector of our economy including Smartphones, Datacom, Smartgrid, Federal, Consumer and Medical.<br>
+<br>
+PC security approaches can't solve this rapidly evolving 'device integrity problem.' A new approach is needed. Our company is developing the industry's only device-independent Smart Device Security platform that secures all aspects of IP addressable devices as well as the information, applications and services that run on them.  Our solutions dramatically increase confidence, trust and compliance among OEMs, service providers and their customers.<br>
+ <br>
+As a Senior QA Engineer, you will work as part of a team responsible for testing and debugging the latest Mocana products.  This position requires an individual who is creative, team-oriented, technology savvy, and able to communicate cross functionally. <br>
+<br>
+Position Responsibilities:<br>
+<br>
+    Test new versions of Mocana's product offerings for device security.<br>
+    Create test plans based on acceptance criteria for Product Backlog items.<br>
+    Automate test cases for Android/iOS devices or emulators using a combination of Java, Python, Ruby and/or Android/iOS SDKs.<br>
+    Execute test cases and automated regression suites in preparation for Sprint reviews.<br>
+    Participate in Product Backlog Refinement and Sprint Retrospective meetings.<br>
+<br>
+Requirements:<br>
+<br>
+    Excellent written and verbal communication skills<br>
+    Programming proficiency in Java, Ruby, Python or C<br>
+    Basic understanding of source control systems<br>
+    5+ years of testing experience<br>
+<br>
+Extra points for experience in any/all of the following:<br>
+<br>
+    Android/iOS SDK<br>
+    Embedded systems<br>
+    IPSec and network security vulnerability<br>
+<br>
+United States Citizenship is required for this position.<br>
+<br>
+Click <a href="http://hire.jobvite.com/j/?aj=oJZlWfwJ&amp;s=Craigslist" rel="nofollow">here</a> to apply.<br>
+ <br>
+Mocana is an EEO/Affirmative Action employer.<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li>Principals only. Recruiters, please don't contact this job poster.</li>
+<li>Please, no phone calls about this job!</li>
+<li>Please do not contact job poster about other services, products or commercial interests.</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-04-16T09:03:20-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/sfc/sof/2961240920.html</dc:source>
+<dc:title><![CDATA[Senior Developer in Test (financial district)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-04-16T09:03:20-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/pen/sof/2961181884.html">
+<title><![CDATA[Infrastructure Engineer @ Wealthfront (palo alto)]]></title>
+<link>http://sfbay.craigslist.org/pen/sof/2961181884.html</link>
+<description><![CDATA[<h3>Infrastructure Engineer</h3>
+<p><strong>Company: </strong>WealthFront - <a href="https://www.wealthfront.com/" target="_blank" rel="nofollow">wealthfront.com<br>
+</a><strong>Location:</strong></strong> <a href="http://maps.google.com/maps?ix=aca&amp;um=1&amp;ie=UTF-8&amp;q=palo+alto+wealthfront&amp;fb=1&amp;gl=us&amp;hq=wealthfront&amp;hnear=0x808fb07b9dba1c39:0xe1ff55235f576cf,Palo+Alto,+CA&amp;cid=0,0,8457607188863479548&amp;ei=WEReT_SSMan-iQLIkbXACw&amp;sa=X&amp;oi=local_result&amp;ct=image&amp;ved=0CA0Q_BI" rel="nofollow">203 Forest Avenue Palo Alto, CA </a><br>
+<br>
+<b>The Company:</b><br>
+Interested in becoming part of a dynamic and innovative team that is turning the investment business on it's head? The over $7-trillion market hasn't seen any innovation in the past 25 years. Wealthfront, a Registered Investment Advisor located in downtown Palo Alto, is changing that. Our team consists of creative, entrepreneurial, can-do individuals who challenge the norms and are motivated to continuously innovate, learn, and help others.  <br>
+
+<br>
+<b>The Role:</b><br>
+We're looking for outstanding engineers who love building tools, libraries, and service APIs that allow their fellow developers to leverage their skills. We care deeply about making proportional investments in solutions that maintain systems. Our back-end is mostly Java, but you're free to use the best language for the job.  <br>
+<br>
+<b>Our Ideal Candidate:</b><br>  
+* Intelligent and self-motivated  <br>
+* Demonstrated excellence in Java with expertise in at least one scripting language.  <br>
+* Superior knowledge of relational databases and NoSQL datastores. <br>
+* Solid understanding of networks and distributed computing <br>
+* Thinks out of the conventional IT management box, with a passion for test-driven development and automated functional QA  <br>
+* Good knowledge of monitoring and deployment tools <br>
+* Proficiency with version control (svn, git, cvs, perforce) <br>
+* Fast learner with strong problem-solving skills <br>
+<br>
+
+<b> Nice to Have: </b><br>
+* BS or MS in computer science or related field <br>
+* Keeps up with developing web standards and technologies <br>
+* Knowledge in minimizing site latency <br>
+* Experienced in browser automation <br>
+* Experience with agile, test-driven software development and continuous integration <br>
+<br>
+
+<br>
+<b>Technologies We Use:</b><br>
+* Environments --Linux (CentOS), JVM <br>
+* Languages -- Java, Ruby, Scala, Python, bash  <br>
+* Frameworks -- Ruby on Rails, kawala <br>
+* Libraries -- Guice, Guava, Perf4j, ASM, JRuby-Rack, jQuery, Mocha  <br>
+* Persistence -- Hibernate, MySQL, Amazon S3 <br>
+* RPC -- Protobuf, JSON, JsonMarshaller, HTTP <br>
+* NoSQL -- Voldemort, RabbitMQ, ZooKeeper, memcached <br>
+* Tests -- Hudson, JUnit, Findbugs, Selenium <br>
+* Principles -- REST, DRY, TDD <br>
+* MiniKitchen -- Kenmore 1000W microwave, UV water filter, Sanyo SR-2570W compression/evaporation refrigerator, Nespresso Type D90 essenza coffee maker. <br>
+<br>
+
+<br>
+<b>Notes:</b><br>
+* This is a full time position.<br>
+
+<br>
+<b>How To Apply:</b><br>
+* <a href="http://captainrecruiter.com/" target="_blank" rel="nofollow">Captain Recruiter<a rel="nofollow"> will be the first point of contact.<br>
+* All applications receive a response.<br>
+* To apply, <a href="http://captainrecruiter.com/jobs/284/applications/new" target="_blank" rel="nofollow">click here</a>.<br>
+<br>
+
+
+</p><!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG compensation=TBD -->Compensation: TBD</li>
+<li>Principals only. Recruiters, please don't contact this job poster.</li>
+<li>Please, no phone calls about this job!</li>
+<li>Please do not contact job poster about other services, products or commercial interests.</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-04-16T08:37:40-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/pen/sof/2961181884.html</dc:source>
+<dc:title><![CDATA[Infrastructure Engineer @ Wealthfront (palo alto)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-04-16T08:37:40-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/pen/sof/2961161357.html">
+<title><![CDATA[Front-End Developer @ Wealthfront (palo alto)]]></title>
+<link>http://sfbay.craigslist.org/pen/sof/2961161357.html</link>
+<description><![CDATA[<h3>Front-End Developer</h3>
+<p><strong>Company: </strong>WealthFront - <a href="https://www.wealthfront.com/" target="_blank" rel="nofollow">wealthfront.com<br>
+</a><strong>Location:</strong></strong> <a href="http://maps.google.com/maps?ix=aca&amp;um=1&amp;ie=UTF-8&amp;q=palo+alto+wealthfront&amp;fb=1&amp;gl=us&amp;hq=wealthfront&amp;hnear=0x808fb07b9dba1c39:0xe1ff55235f576cf,Palo+Alto,+CA&amp;cid=0,0,8457607188863479548&amp;ei=WEReT_SSMan-iQLIkbXACw&amp;sa=X&amp;oi=local_result&amp;ct=image&amp;ved=0CA0Q_BI" rel="nofollow">203 Forest Avenue Palo Alto, CA </a><br>
+<br>
+<b>The Company:</b><br>
+Interested in becoming part of a dynamic and innovative team that is turning the investment business on it's head? The over $7-trillion market hasn't seen any innovation in the past 25 years. Wealthfront, a Registered Investment Advisor located in downtown Palo Alto, is changing that. Our team consists of creative, entrepreneurial, can-do individuals who challenge the norms and are motivated to continuously innovate, learn, and help others.  <br>
+
+<br>
+<b>The Role:</b><br>
+We're looking for outstanding engineers who are passionate about designing and delivering incredible user experiences that will revolutionize the way people manage their investments. We care deeply about modern, standards-based markup. <br>
+<br>
+<b>Our Ideal Candidate:</b><br>  
+* Intelligent and self-motivated  <br>
+* Writes simple, elegant, cross-browser HTML/CSS and JS <br>
+* Familiar with Ruby on Rails or similar framework (Django, GWT, jQuery, YUI, PHP)<br>
+* Enjoys building projects from scratch (such as funnel metrics tools or A/B testing framework) <br>
+* Familiar with HTTP and the principles of RESTful design <br>
+<br>
+
+<b> Nice to Have: </b><br>
+* BS or MS in computer science or related field <br>
+* Keeps up with developing web standards and technologies <br>
+* Knowledge in minimizing site latency <br>
+* Experienced in browser automation <br>
+* Experience with agile, test-driven software development and continuous integration <br>
+<br>
+
+<br>
+<b>Technologies We Use:</b><br>
+* Environments --Linux (CentOS), JVM <br>
+* Languages -- Java, Ruby, Scala, Python, bash  <br>
+* Frameworks -- Ruby on Rails, kawala <br>
+* Libraries -- Guice, Guava, Perf4j, ASM, JRuby-Rack, jQuery, Mocha  <br>
+* Persistence -- Hibernate, MySQL, Amazon S3 <br>
+* RPC -- Protobuf, JSON, JsonMarshaller, HTTP <br>
+* NoSQL -- Voldemort, RabbitMQ, ZooKeeper, memcached <br>
+* Tests -- Hudson, JUnit, Findbugs, Selenium <br>
+* Principles -- REST, DRY, TDD <br>
+* MiniKitchen -- Kenmore 1000W microwave, UV water filter, Sanyo SR-2570W compression/evaporation refrigerator, Nespresso Type D90 essenza coffee maker. <br>
+<br>
+
+<br>
+<b>Notes:</b><br>
+* This is a full time position.<br>
+
+<br>
+<b>How To Apply:</b><br>
+* <a href="http://captainrecruiter.com/" target="_blank" rel="nofollow">Captain Recruiter<a rel="nofollow"> will be the first point of contact.<br>
+* All applications receive a response.<br>
+* To apply, <a href="http://captainrecruiter.com/jobs/282/applications/new" target="_blank" rel="nofollow">click here</a>.<br>
+<br>
+
+
+</p>
+<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li>Principals only. Recruiters, please don't contact this job poster.</li>
+<li>Please, no phone calls about this job!</li>
+<li>Please do not contact job poster about other services, products or commercial interests.</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-04-16T08:28:14-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/pen/sof/2961161357.html</dc:source>
+<dc:title><![CDATA[Front-End Developer @ Wealthfront (palo alto)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-04-16T08:28:14-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/sfc/sof/2961149629.html">
+<title><![CDATA[Make a Difference @ GreatSchools!  (SOMA / south beach)]]></title>
+<link>http://sfbay.craigslist.org/sfc/sof/2961149629.html</link>
+<description><![CDATA[<h3>Software Engineer</h3>
+<b>Company:</b>  GreatSchools - <a href="http://www.greatschools.org/" target="_blank" rel="nofollow">http://www.greatschools.org</a><br>
+<b>Location:</b> <a href="http://maps.google.com/maps?q=160+Spear+Street,+Suite+1020,+San+Francisco,+CA+94105&amp;oe=utf-8&amp;rls=org.mozilla:en-US:official&amp;client=firefox-a&amp;um=1&amp;ie=UTF-8&amp;hq=&amp;hnear=0x80858064f015967d:0x13cbeb35e9e7478c,160+Spear+St+%231020,+San+Francisco,+CA+94105&amp;gl=us&amp;ei=r_7gTuqQOvDUiALa97SKDw&amp;sa=X&amp;oi=geocode_result&amp;ct=title&amp;resnum=1&amp;ved=0CB4Q8gEwAA" target="_blank" rel="nofollow">160 Spear Street, Suite 1020, San Francisco, CA 94105
+</a><br>
+<br>
+<b>The Company:</b><br>
+GreatSchools inspires and guides parents to become effective champions of their children's education 
+at home and in their communities.  Parents turn to us to find the right schools for their children, 
+to get practical advice and information that will help them raise successful, college-ready kids, 
+and to support the schools in their communities.Founded in 1998, GreatSchools reaches more than 37 
+million people each year - approximately one in three
+American families with school-age children. With profiles of 200,000 public, public charter, and private 
+schools serving students from Pre-K through high school and more than 800,000 parent ratings and reviews 
+of schools, GreatSchools is the most comprehensive source of information on school quality today.
+GreatSchools is an independent, nonprofit organization that is supported by numerous foundations and 
+corporations, including the Bill and Melinda Gates Foundation, the Robertson Foundation and the Walton 
+Family Foundation.<br>
+<br>
+<b>The Role:</b><br>
+You'll be responsible for designing and building web application features with a focus on the server side.
+You excel at Java fundamentals, know your SQL, and can find your way around Spring MVC and Hibernate.
+You've done full-stack development, so you're happy to write HTML and CSS when needed.
+You think JavaScript and jQuery are fun! To name
+just a few projects, you might work on building new interactive tools to present personalized content,
+engineering new search features for the mobile web, or improving social integration and SEO.<br>
+<br>
+This position exists because we recently received funding from a major foundation and have a lot of work to do!
+It's a perfect role for anyone who wants temporary work and can commit to a project through September 28, 2012.<br>
+<br>
+<b>Our Ideal Candidate Will Have:</b><br>
+* Strong experience building web applications in Java/J2EE, preferably using Spring MVC and Hibernate.<br>
+* Proficiency in HTML, CSS, and JavaScript. jQuery experience is welcome!<br>
+* Familiarity with SQL and database design.<br>
+* Solid understanding of object-oriented design, unit testing, version control (CVS and git), and software design principles.<br>
+* Interest/experience in Groovy and Grails, or other MVC frameworks like Play or Ruby on Rails.<br>
+* Experience collaborating with product managers, front-end engineers, and QA.<br>
+<br>
+<b>Stuff To Look Forward To:</b><br>
+* Competitive salary while making a difference in the world!<br>
+* Be a part of a small team where your opinion matters and we're always learning and growing.<br>
+* Agile-style development with the opportunity to work on a variety of projects.<br>
+* A supportive culture where smart, focused team players with a passion for technology can thrive.<br>
+* Our employees have families and lives outside work. We support that!<br>
+
+<br>
+<b>How To Apply:</b><br>
+* <a href="http://www.captainrecruiter.com" target="_blank" rel="nofollow">Captain Recruiter</a> will be the first point of contact.<br>
+* All applications receive a response.<br>
+* All applications are kept strictly confidential.<br>
+* To apply, <a href="http://captainrecruiter.com/jobs/273/applications/new" target="_blank" rel="nofollow">click here</a>.<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG nonprofit=on -->This is at a non-profit organization.</li>
+<li>Principals only. Recruiters, please don't contact this job poster.</li>
+<li>Please, no phone calls about this job!</li>
+<li>Please do not contact job poster about other services, products or commercial interests.</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-04-16T08:23:05-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/sfc/sof/2961149629.html</dc:source>
+<dc:title><![CDATA[Make a Difference @ GreatSchools!  (SOMA / south beach)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-04-16T08:23:05-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/pen/sof/2960790956.html">
+<title><![CDATA[Software Engineer, Framework [211CA] (redwood city)]]></title>
+<link>http://sfbay.craigslist.org/pen/sof/2960790956.html</link>
+<description><![CDATA[Sencha Framework Engineer<br>
+<br>
+As a Sencha Framework Engineer, you will work on future releases of Sencha Ext JS and Sencha Touch. Sencha frameworks are object-oriented JavaScript frameworks for building complex, cross-browser web applications for desktop and mobile. They feature rich interface capabilities, a clean, extensible component model and are highly optimized for size and performance.<br>
+<br>
+Responsibilities<br>
+<br>
+Create new releases of Sencha Ext JS and Sencha Touch<br>
+Work in a collaborative environment with product management, QA and documentation to create easy to use, efficient and powerful features<br>
+Create tests, demos and documentation to help users take advantage of the features you create<br>
+<br>
+Requirements<br>
+<br>
+Significant development experience developing complex business applications in C++, .Net or Object-Oriented JavaScript. Experience in an object-oriented dynamic language including Ruby, mod Perl, or Python is desirable if your main language is C++ or .Net.<br>
+Expert HTML, JavaScript, and CSS knowledge; previous Ext JS or Sencha Touch experience is a significant plus<br>
+Experience designing modular, object-oriented libraries, toolkits or frameworks<br>
+<br>
+Additional<br>
+<br>
+Experience with UI frameworks such as XUL, Flex, and XAML<br>
+Experience working in an Agile development environment<br>
+<br>
+Sencha offers a full benefit package including 1 month worth of PTO/Holidays.<br>
+<br>
+TO APPLY: Please visit www.sencha.com or you can simply <a href="http://www.sencha.com/company/careers/?gnk=apply&amp;gni=8a42a12b3519d9d201351dfb5df15b2c&amp;gns=Craigslist" rel="nofollow">Apply Here</a><br>
+ (online application to our career's page).<br>
+<br>
+Sencha is an equal opportunity employer and does not unlawfully discriminate on the basis of race, color, religion, sex, sexual orientation, gender, gender identity, gender expression, national origin ancestry, age, medical condition, disability, veteran status, marital status, or other prohibited factors under applicable federal, state, and local laws.<br>
+<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG compensation=DOE -->Compensation: DOE</li>
+<li>Principals only. Recruiters, please don't contact this job poster.</li>
+<li>Please, no phone calls about this job!</li>
+<li>Please do not contact job poster about other services, products or commercial interests.</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-04-16T03:31:36-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/pen/sof/2960790956.html</dc:source>
+<dc:title><![CDATA[Software Engineer, Framework [211CA] (redwood city)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-04-16T03:31:36-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/sfc/sof/2960393869.html">
+<title><![CDATA[Rails or HTML5 Developer (San Francisco, CA)]]></title>
+<link>http://sfbay.craigslist.org/sfc/sof/2960393869.html</link>
+<description><![CDATA[<a href="http://www.jobscore.com/jobs/spongecell/list" rel="nofollow"><img src="http://www.jobscore.com/images/accounts/header_spongecell.gif"></a><br><p style="text-align: center;">	<strong>Junior and Senior Engineering Positions at Spongecell (Ruby on Rails or HTML5 focused)</strong></p><p>	Spongecell is a profitable company headquartered in NYC with a small engineering team in SF that is looking to expand. Display advertising is growing faster than any other segment of the market and that is what we do, and we do it faster than anyone else at a lower cost. We have an eclectic team including a restaurateur, a martial arts expert, a Starcraft hero, a hard core surfer and snow boarder, and a competitive water skier. We travel to NYC twice a year for what we lovingly call "Sponge Week" where we debate what to do with our domain spongewolf.com.</p><p>	 </p><p>	We've got lots of engineering work to do, with some cool technologies like rails 3.2, html5, node.js and redis.  We've got internal and external projects, and flexibility for you to settle in at any part of the stack. We look forward to the day when all the content on the web is interactive and we need help to make that happen. Help us get the ad world off flash and into html5.  We do interactive ads and ads pay. Spongecell is spryly booming with a 3 year growth of over 3,000% and a recent $10 million investment.</p><p>	We would like to find a lead engineer or architect that enjoys collaboration and can guide us in the right direction. We are also seeking engineers that are passionate about software development and want to work at a small company with exposure to all aspects of application development and maintenance.</p><p>	We've got a supportive and flexible development environment with a small but great team of experienced entrepreneurs, tech startup leaders, Railsconf and MySQL conference speakers, a competitive water skier, a restauranteur and a Starcraft wizard. We know where to get good sushi and like bacon and beer.</p><p>	The company offers a very competitive pay, equity and benefits package along with flexible meatspace arrangements. If you are amazing at what you do, we could consider part-time, remote development, or contracting, but you will need to come out to San Francisco at least one week a quarter.</p><p>	We need good additions to team. If you'd like to talk more with me or with our VP of Engineering, we'd love to hear from you.</p><p>	 </p><p><a href="http://www.sfatweb.com/track.aspx/25sxt" rel="nofollow">Click Here to Apply</a> <img src="http://www.sfatweb.com/track.aspx/25syD"><!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=San Francisco, CA -->Location: San Francisco, CA</li>
+<li> <!-- CLTAG compensation=- -->Compensation: -</li>
+<li>Principals only. Recruiters, please don't contact this job poster.</li>
+<li>Please, no phone calls about this job!</li>
+<li>Please do not contact job poster about other services, products or commercial interests.</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-04-15T17:59:41-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/sfc/sof/2960393869.html</dc:source>
+<dc:title><![CDATA[Rails or HTML5 Developer (San Francisco, CA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-04-15T17:59:41-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/pen/sof/2957439929.html">
+<title><![CDATA[Software Engineer, io [224CA] (redwood city)]]></title>
+<link>http://sfbay.craigslist.org/pen/sof/2957439929.html</link>
+<description><![CDATA[As a Software Engineer, you will be working to define and implement an innovative suite of cloud services targeting mobile applications. Fully integrated with Sencha's market leading web frameworks, these cloud services enable mobile application developers to incorporate advanced functionality like data sharing, offline synchronization and content optimization without needing to deploy dedicated backend servers.<br>
+<br>
+Using your extensive experience with modern software frameworks, programming models, and key web technologies, you will build the applications for our cloud services. You will be a lead developer on the engineering team, participate in scrum, architecture discussions and write code to scale. You will focus on the goal of helping us build a great experience for our cloud services, from the customer facing API to the backend data store.<br>
+<br>
+Work towards weekly milestones on the development of high-visibility, high-quality products.<br>
+Stay current with relevant technologies, proactively develop and suggest architecture changes.<br>
+Meet with team to assess feasibility and priority of new features.<br>
+Participate in testing regularly scheduled releases (think continuous development).<br>
+Write and maintain proper programming documentation.<br>
+Collaborate with systems engineering to optimize scale, efficiency and problem resolution.<br>
+Conduct ongoing systems analysis and perform routine maintenance.<br>
+Commitment to getting it done... properly, the first time.<br>
+<br>
+Technical characteristics:<br>
+<br>
+Strong familiarity with computing and programming theory<br>
+Excellent knowledge and experience with object-oriented programming <br>
+Experience working with server side frameworks and platforms<br>
+Detailed understanding of database schema and an accurate image of XML <br>
+Experience with HTML5, CSS3 and related debugging tools<br>
+Experience with JavaScript based client/server frameworks, ex. node.js <br>
+Experience with scripting languages (eg. Perl, Ruby, Python)<br>
+Experience with databases, both SQL and NoSQL variants<br>
+Experience with Amazon Web Services, Rackspace, OpenStack <br>
+Experience with cloud services performance and load automation <br>
+Experience with scalability, clustered systems and applications<br>
+Experience with web and application security<br>
+Experience with Web services; SOAP, XML and JSOS<br>
+BS or MS in Computer Science or equivalent engineering experience<br>
+<br>
+Sencha offers a full benefit package including 1 month worth of PTO/Holidays.<br>
+<br>
+TO APPLY: Please visit www.sencha.com or you can simply <a href="http://www.sencha.com/company/careers/?gnk=apply&amp;gni=8afc05ca369bd8b601369ffce5877c6a&amp;gns=Craigslist" rel="nofollow">Apply Here</a><br>
+ (online application to our career's page).<br>
+<br>
+<br>
+Sencha is an equal opportunity employer and does not unlawfully discriminate on the basis of race, color, religion, sex, sexual orientation, gender, gender identity, gender expression, national origin ancestry, age, medical condition, disability, veteran status, marital status, or other prohibited factors under applicable federal, state, and local laws.<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG compensation=DOE -->Compensation: DOE</li>
+<li>Principals only. Recruiters, please don't contact this job poster.</li>
+<li>Please, no phone calls about this job!</li>
+<li>Please do not contact job poster about other services, products or commercial interests.</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-04-13T23:42:07-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/pen/sof/2957439929.html</dc:source>
+<dc:title><![CDATA[Software Engineer, io [224CA] (redwood city)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-04-13T23:42:07-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/pen/sof/2957419433.html">
+<title><![CDATA[Software Engineer in Test, Cloud Services (redwood city)]]></title>
+<link>http://sfbay.craigslist.org/pen/sof/2957419433.html</link>
+<description><![CDATA[Software Engineer in Test, Cloud Services<br>
+<br>
+Quality engineering at Sencha is about design, development and the implementation of complex automation functionality. The role is a engineering position, focused on delivering quality. You have to be comfortable with only initial manual testing of new features, primarily so you have the understanding to correctly architect and implement the automation you want to build. You have a strong background in object-oriented programming concepts and constructs (JavaScript, Ruby, Java, et al). You will need to identify missing test cases and refine existing code for modularity and automation purposes, estimate and prioritize work for optimal risk mitigation and identify suitable regression suites.<br>
+<br>
+You must actually like to break things, be exhilarated when you discover that really complicated defect and provide enough details that the team can act on them and then help to develop the resolution. You  have to be self directed, team oriented, and actually know and care about what our users are trying to accomplish by using our products.<br>
+<br>
+Responsibilitlies:<br>
+<br>
+This role isn't quality assurance in the traditional black-box testing sense, think development operations. You will focus on the goal of helping us build a great experience for our cloud services, from the customer facing API to the backend data store.<br>
+Work towards weekly milestones on the development of high-visibility, high-quality web products<br>
+Conduct ongoing systems analysis and perform routine maintenance<br>
+Collaborate with the dev team to assess feasibility and priority of new features<br>
+Participate in testing regularly scheduled releases (think continuous development and deployment)<br>
+Write and maintain proper documentation<br>
+Collaborate with systems engineering to optimize scale, network efficiency and problem resolution<br>
+Stay current with relevant technologies, proactively develop and suggest architecture changes<br>
+Commitment to getting it done... properly, the first time<br>
+<br>
+Technical characteristics:<br>
+<br>
+Strong familiarity with computing and programming theory<br>
+Excellent knowledge and experience with object-oriented programming<br>
+Detailed understanding of database schema and an accurate image of data formats<br>
+Experience with building and measuring performance of web services; SOAP, XML, REST and JSON<br>
+Experience with HTML5, CSS3 and related debugging and automation tools<br>
+Experience with JavaScript based UI frameworks, ex. Sencha products, node.js<br>
+Experience with scripting languages (eg. Perl, Ruby, Python)<br>
+Experience with databases, both SQL and NoSQL variants<br>
+Experience with mobile development and testing<br>
+Experience with Amazon Web Services, Rackspace, OpenStack<br>
+Experience with cloud performance and load automation<br>
+Experience with Opensource software and tools<br>
+Experience with scalability, clustered systems and applications<br>
+Experience with web and application security<br>
+<br>
+Sencha offers a full benefit package including 1 month worth of PTO/Holidays.<br>
+<br>
+TO APPLY: Please visit www.sencha.com or you can simply <a href="http://www.sencha.com/company/careers/?gnk=apply&amp;gni=8a42a12b3519d9d201351dff3cf75b3e&amp;gns=Craigslist" rel="nofollow">Apply Here</a><br>
+ (online application to our career's page).<br>
+<br>
+<br>
+Sencha is an equal opportunity employer and does not unlawfully discriminate on the basis of race, color, religion, sex, sexual orientation, gender, gender identity, gender expression, national origin ancestry, age, medical condition, disability, veteran status, marital status, or other prohibited factors under applicable federal, state, and local laws.<br>
+<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG compensation=DOE -->Compensation: DOE</li>
+<li>Principals only. Recruiters, please don't contact this job poster.</li>
+<li>Please, no phone calls about this job!</li>
+<li>Please do not contact job poster about other services, products or commercial interests.</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-04-13T23:01:42-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/pen/sof/2957419433.html</dc:source>
+<dc:title><![CDATA[Software Engineer in Test, Cloud Services (redwood city)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-04-13T23:01:42-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/eby/sof/2957041458.html">
+<title><![CDATA[Mathematician Programmer (fremont / union city / newark)]]></title>
+<link>http://sfbay.craigslist.org/eby/sof/2957041458.html</link>
+<description><![CDATA[Location: South Bay Area - Fremont, California<br>
+<br>
+Looking for a great opportunity to learn and grow in knowledge of the Internet and to put your knowledge to use?<br>
+<br>
+Looking for a position at a large stable growing technology company?<br>
+<br>
+Looking to contribute to a team with worldwide reach and impact?<br>
+<br>
+Join our team and grow, learning about leading edge Internet technology in a fun interesting environment.<br>
+<br>
+Well established, fast growing, worldwide Internet Backbone and Colocation Provider Hurricane Electric is looking for intermediate coders that want to learn and grow. Someone who is comfortable learning new scripting and programming languages, able to stay focused, and work steadily on a task to completion.<br>
+<br>
+If you want to join a solid company and be a contributing part over the long term, gaining numerous opportunities to discover knowledge and new skills pertaining to the Internet, then you might be the right person for this position.<br>
+<br>
+Hurricane Electric's Internet backbone network extends throughout the US, Canada, Europe, and Asia, to the top cities of the world. Hurricane Electric is one of the top largest Internet backbone networks on earth. Hurricane Electric has state-of-the-art colocation facilities in both Fremont and San Jose, California.<br>
+Do you enjoy writing scripts to present data graphically via the web?<br>
+<br>
+Hurricane Electric Internet Services is looking for a Software Engineer or Network Engineer to create web pages (using PHP, perl, and SQL) and client side applications (using flash or java) to visualize data about both the Internet at large and Hurricane Electric's network, both for Hurricane Electric customers and as a public resource.<br>
+<br>
+Compensation: Approximately $60,000/year, comprehensive Medical and Dental Insurance, 401K, paid holidays and vacation<br>
+<br>
+Great advancement possibilities exist for those with initiative. Hurricane Electric offers on-the-job training with pay to all applicants who qualify. Discover your true potential! Become a skilled web developer and system administrator. Learn and develop your part of a fast growing company.<br>
+<br>
+Duties and Responsibilities Include:<br>
+* Write scripts for web site development and system administration.<br>
+* Utilize your creative mind to create new web sites and web services.<br>
+* Assist network engineers with diagnostics.<br>
+* Answer technical phone calls.<br>
+* Respond to customer support emails.<br>
+* Install and configure servers.<br>
+<br>
+Position Requirements:<br>
+* Extensive knowledge of at least one programming or scripting language required.<br>
+* Must have prior work experience using HTML, MySQL, and Linux.<br>
+* Knowledge of PHP, Ruby, Perl, Javascript, Java, or C++ a plus.<br>
+* Must have a strong desire to learn.<br>
+* Possess excellent verbal/written (English) communication skills.<br>
+* Must be able to lift 30 pounds.<br>
+* Must have a clean background and be drug free.<br>
+<br>
+Full Time Position<br>
+All Shifts Available<br>
+11:00am-7:00pm, 7:00pm-3:00am, 3:00am-11:00am<br>
+<br>
+We offer excellent training in an ever growing exciting environment. Please send your resume to resume@he.net with "Mathematician Programmer" in the subject of your email.<br>
+<br>
+<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li>Principals only. Recruiters, please don't contact this job poster.</li>
+<li>Please, no phone calls about this job!</li>
+<li>Please do not contact job poster about other services, products or commercial interests.</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-04-13T16:59:18-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/eby/sof/2957041458.html</dc:source>
+<dc:title><![CDATA[Mathematician Programmer (fremont / union city / newark)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-04-13T16:59:18-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/sfc/sof/2956587274.html">
+<title><![CDATA[Software Engineering, Entry Level at Digital Foundry, Inc. (North of SF)]]></title>
+<link>http://sfbay.craigslist.org/sfc/sof/2956587274.html</link>
+<description><![CDATA[<img src="http://www.digitalfoundry.com/uploaded-images/media_library/DigtialFoundry_Logo_Blue.png">
+<br>
+<hr>
+NOTE: This position is located in Tiburon, a short drive or ferry ride from San Francisco.  
+<br>
+<br>
+Digital Foundry, Inc. is a leading business and software consulting firm looking to bring on a few talented software engineers at its waterfront office in sunny Tiburon, CA.  You will help Digital Foundry plan, build and maintain highly visible custom software for start-ups and large multinational companies. 
+<br>
+<br>
+If you want to apply your analytical and technical skills alongside smart team-players in a great work environment, <a rel="nofollow">apply now</a>.
+<br>
+<br>
+<b>EDUCATION AND EXPERIENCE:</b>
+<ul>
+<li>BS in Computer Science</li>
+<li>Team software development experience - (co-op, internship, summer job)</li>
+</ul>
+<b>TECHNICAL SKILLS:</b>
+<ul> 
+<li>Required: C# or Java, JavaScript and CSS</li> 
+<li>Desired (familiar with one or more of the following): Grails, Python, Django, Ruby, Ruby on Rails, cross-browser coding</li>
+</ul>
+<b>COMMUNICATION AND ANALYTICAL SKILLS</b> 
+<ul>
+<li>Effective verbal communication skills</li>
+<li>First rate writing and technical writing skills</li>
+<li>Strong analytical problem solving skills</li>
+<li>Willingness to work in a team environment and take constructive advice</li>
+<li>Ability to test their own code and the code of others</li>
+<li>Aptitude to write clean, clear, commented code</li>
+<li>Hard working, "no excuses" attitude</li>
+</ul>
+<b>COMPENSATION</b>
+<br>
+Digital Foundry offers a comprehensive compensation and benefits package including a competitive salary, performance bonuses, medical, dental, vision, and a matching retirement (401K) program. All employees get up to three weeks of time off in their first year! <a rel="nofollow">Learn more</a> about working at Digital Foundry.
+<br>
+<br>
+Please apply for this position online only:
+<br>
+<a href="http://www.digitalfoundry.com/careers/11/Software-Engineer--Entry-Level/apply" rel="nofollow">apply now</a>
+<br>
+<br>
+To learn more about Digital Foundry visit us on the web:
+<br>
+<a href="http://www.digitalfoundry.com" rel="nofollow">http://www.digitalfoundry.com</a>
+<br>
+<br>
+<br>
+Thank you!<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=North of SF -->Location: North of SF</li>
+<li>Principals only. Recruiters, please don't contact this job poster.</li>
+<li>Please, no phone calls about this job!</li>
+<li>Please do not contact job poster about other services, products or commercial interests.</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-04-13T12:47:59-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/sfc/sof/2956587274.html</dc:source>
+<dc:title><![CDATA[Software Engineering, Entry Level at Digital Foundry, Inc. (North of SF)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-04-13T12:47:59-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/eby/sof/2956378494.html">
+<title><![CDATA[Test (QA) & Release Engineer (emeryville)]]></title>
+<link>http://sfbay.craigslist.org/eby/sof/2956378494.html</link>
+<description><![CDATA[In order to bring the best online learning experience to life, the Test & Release Engineer will collaborate with developers, product owners, and management to continuously improve and innovate our learning platform and pipeline. You will be managing both testing and release of our software to our web platforms, working collaboratively with the rest of the development team.<br><br>
+ 
+<b>Required Skills:</b> <br>
+
+    Solid scripting skills with experience in an advanced scripting language like Python, Perl, or Ruby.<br>
+    Strong analysis and deductive skills and an ability to understand and troubleshoot complex problems.<br>
+    Ability to plan out and implement software build and test infrastructures.<br>
+    Solid foundation in software engineering best practices, including testing and release management.<br>
+    Expert understanding of test methodologies (black box vs. white box testing, functional testing, load testing, exploratory testing, etc.).<br>
+    Experience with writing automated verification tests, and knowing when tests can be automated, and when tests should remain manual.<br>
+    Knowledge of open source tools including subversion, MySQL, PostgreSQL, Qt, PyQt.<br>
+    Knowledge of open source testing tools like nunit, Cucumber, Cruise Control, FITnesse, Watir, or Selenium.<br>
+    A willingness to continually learn new tools and methodologies and bring that information to the team at large.<br>
+<br>
+ 
+<b>Desired Skills & Experience:</b> </br>
+
+    Working knowledge of current CG/VFX production processes and commercial tools, including Maya, Shotgun, and Nuke.<br>
+    Bachelors degree in Computer Science or a related discipline or equivalent work experience.<br>
+    Experience working on teams using Agile development techniques such as Scrum, Extreme Programming (XP), Test Driven Development, etc.<br>
+    Experience with Agile testing methods such as Acceptance Driven and Behavior Driven testing.<br><br>
+
+<b>Who We Are</b> <br>
+
+    We're a top animation school with students and alumni in over 80 countries.<br>
+    We were started by 3 animators from Pixar and ILM who found an innovative, creative and highly effective way to teach the art of character animation.<br>
+    Our mission is to provide the most personal and fulfilling learning experience on the planet!<br>
+    Our instructors (mentors) work at major studios such as Pixar, Disney, Industrial Light & Magic, and DreamWorks.<br>
+    We embrace a test-and-learn approach. We move fast and take risks in order to learn the best techniques for creating, delivering and improving everything we do.<br>
+    We are made up of people who take pride in what we do AND have a ton of fun doing it!<br>
+    We value community. We believe in giving to our community and sharing our passion with everyone who comes into contact with us.<br>
+    We live by our values and measure our personal and professional success by them.<br><br>
+
+<b>Why Work For Animation Mentor?</b><br>
+
+    The Company: We offer competitive wages, full benefits, 401K matching and lots of growth potential.<br>
+    The Perks: True work-life balance, supportive co-workers and an environment where your input and suggestions matter.<br>
+    The Culture: A fun, dynamic start-up without the start-up hours.<br>
+    The CEO: Formerly an animator at Pixar, our CEO is one of the most enthusiastic and dedicated people you will ever meet.<br>
+ <br>
+<b>How To Apply</b><br>
+Help us create the most fulfilling learning experience on the planet!<br>
+Click <a href="http://hire.jobvite.com/j/?aj=ooDVVfwB&amp;s=Craigslist" rel="nofollow">here</a> to apply.<br>
+<br><!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li>Principals only. Recruiters, please don't contact this job poster.</li>
+<li>Please, no phone calls about this job!</li>
+<li>Please do not contact job poster about other services, products or commercial interests.</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-04-13T11:11:18-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/eby/sof/2956378494.html</dc:source>
+<dc:title><![CDATA[Test (QA) & Release Engineer (emeryville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-04-13T11:11:18-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/sfc/sof/2954738726.html">
+<title><![CDATA[Linux Systems Engineer (SOMA / south beach)]]></title>
+<link>http://sfbay.craigslist.org/sfc/sof/2954738726.html</link>
+<description><![CDATA[<b>About the job</b><br>
+ <br>
+At Opower, we're applying cutting edge computer science to one of humanity's greatest challenges: Energy. Our utility customers in the U.S. and abroad give us energy usage data for tens of millions of their customers which we then analyze and aggregate using the latest software technology to motivate consumers to use less energy. We use the right tools for each element of our broad solution set so our engineers get exposure to everything from Java Spring to Ruby on Rails, from JavaScript to Hadoop, from HBase to MySQL.<br>
+ <br>
+Join a team that is building a platform that makes a difference. You will help build and extend a SaaS platform that handles terabytes of data.  You will help build configuration management tools that allow the whole team to move faster. You'll help us build Opower's first 200TB+ Hadoop cluster. You will deeply understand what is important to our business, and make good decisions about automation and systems management. We need first class sysops, devops, or operations engineers that are interested in building a platform and automating the deployment and management of cutting edge software.  Work hand in hand with software developers and test engineers in an agile evnronment that is focused only on results.<br>
+ <br>
+<b>About You</b><br>
+<br>
+    You have 3+ years Unix (preferably Linux) systems administration experience<br>
+    You have worked in a highly-available Unix environment<br>
+    You have experience with the administration and tuning of web and java applications<br>
+    You have execellent working knowledge of standard Unix utilities, applications, and scripting (e.g., cron, shell, etc), and the automation of administrative tasks<br>
+    You have experience with configuration management tools such as Puppet, CFengine, Chef<br>
+    You have supported web applications in a 24x7 environment- You are a strong verbal and written communicator and have excellent analytical and problem solving capabilities<br>
+ <br>
+<b>Additional skills</b><br>
+<br>
+    Experience with MySQL or other relational databases, clustering and high-availability knowledge a plus.<br>
+    Measure utilization of resources against available capacity, proactively plan upgrades and expansion.<br>
+    Advanced TCP/IP networking or SAN experience a plus.<br>
+ <br>
+<b>Responsibilities</b><br>
+<br>
+    Hands-on support of all products, services and systems in all engineering and production environments.<br>
+    Maintain server and appliance software with latest bug and security fixes.<br>
+    Troubleshoot application and environment issues and ensure that system availability, performance and other services level agreements are met.<br>
+    Work with application development teams on troubleshooting issues as well as designing solutions<br>
+    Monitor system performance using the available tools, and modify system-tuning parameters as appropriate.<br>
+    Build tools and utilities to aid production support, such as monitoring and automated problem resolution.<br>
+    Oversee system recovery after failures due to hardware or system software errors, and assist in recovery after failures due to user or application software errors if required<br>
+    Collaborate with other technical teams at Opower to deliver evolving requirements of the SaaS platform.<br>
+    Documents system configurations, provide and/or maintain operational documentation.<br>
+<br>
+Click <a href="http://hire.jobvite.com/j/?cj=oJ5bWfwF&amp;s=Craigslist" rel="nofollow">here</a> to apply.<br>
+<br>
+<i>Opower is an Equal Opportunity Employer.<br>
+VISAS/TRANSFER SPONSORSHIP AVAILABLE WHEN APPLICABLE.<br>
+NO PHONE CALLS, PLEASE. THE FASTEST WAY TO GET A RESPONSE IS BY APPLYING ONLINE. (IF YOU CALL THEN WE ARE JUST GOING TO SEND YOU TO THIS SITE).<br>
+NO EXTERNAL RECRUITERS.</i><br>
+<br>
+<br>
+Keywords: Unix Linux MySQL Java Hadoop Ruby Puppet "Configuration Management" "Autonomic Computing" "Systems Administrator"<br>
+<br>
+<br>
+<br>
+ <!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li>Principals only. Recruiters, please don't contact this job poster.</li>
+<li>Please, no phone calls about this job!</li>
+<li>Please do not contact job poster about other services, products or commercial interests.</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-04-12T13:02:49-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/sfc/sof/2954738726.html</dc:source>
+<dc:title><![CDATA[Linux Systems Engineer (SOMA / south beach)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-04-12T13:02:49-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/pen/sof/2954706299.html">
+<title><![CDATA[Survey Programmer / Data Analyst (palo alto)]]></title>
+<link>http://sfbay.craigslist.org/pen/sof/2954706299.html</link>
+<description><![CDATA[We are an online survey company seeking an energetic person with strong analytical skills<br>
+to join our Operations team as a Survey Programmer/Analyst. Surveys are programmed<br>
+using an in-house scripting language based on Python. In addition to scripting,<br>
+responsibilities include quality control, data processing, and monitoring. <br>
+<br>
+Strong computational abilities are essential. Some prior experience programming<br>
+(Python, Ruby, Perl, C/C++, Java) and scripting with statistical software and<br>
+data management tools (R/S-Plus, SPSS, Stata, SAS, SQL, Excel) is strongly preferred.<br>
+A successful candidate will be able to develop and suggest methods to improve<br>
+survey implementation, enhance the survey-taking experience for our respondents,<br>
+and streamline delivery of data products to our clients. <br>
+<br>
+Candidates should have the following qualifications: <br>
+- Excellent computational and analytical skills<br>
+- Programming experience<br>
+- Experience with statistical packages and data management tools <br>
+- Understanding of statistics and ability to summarize data and manage large datasets <br>
+- Strong communication skills, both written and oral<br>
+- Results driven focus and ability to see issues through to completion in a timely manner<br>
+- Attention to accuracy in fast-paced environment<br>
+- Ability to manage multiple tasks at one time <br>
+- Prior experience or training in survey research is a plus (but not required)<br>
+<br>
+The ideal candidate has performed quantitative research in either an academic or professional environment.<br>
+Candidate should have a distinguished undergraduate academic record.<br>
+<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li>Principals only. Recruiters, please don't contact this job poster.</li>
+<li>Please, no phone calls about this job!</li>
+<li>Please do not contact job poster about other services, products or commercial interests.</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-04-12T12:46:54-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/pen/sof/2954706299.html</dc:source>
+<dc:title><![CDATA[Survey Programmer / Data Analyst (palo alto)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-04-12T12:46:54-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/sfc/sof/2953529502.html">
+<title><![CDATA[craigslist is hiring Network Engineers (financial district)]]></title>
+<link>http://sfbay.craigslist.org/sfc/sof/2953529502.html</link>
+<description><![CDATA[craigslist is seeking an experienced Network Engineer to:<br>
+* assist in maintaining a stable platform that will continue to scale as traffic increases and services are expanded;<br>
+* assist in network design and evolution;<br>
+* manage and employ open source and commercial firewalls and load balancers; and<br>
+* solve interesting tech issues at billion-page-view-per-day scale.<br>
+<br>
+Successful candidates will have high-level experience in as many of the following areas as possible: <br>
+* very high performance / traffic web architectures;<br>
+* TCP / IP / BGP / OSPF / IS-IS;<br>
+* Juniper's JUNOS;<br>
+* Force10's FTOS;<br>
+* bgp traffic engineering / transit provider selection;<br>
+* open source and commercial firewalls and load balancers;<br>
+* firewall policy design and implementation in iptables, Juniper JUNOS-SRX, and Juniper ScreenOS -ISG platforms;<br>
+* HA Proxy, F5 Networks, A10 Networks;<br>
+* global server load balancing;<br>
+* IPSEC vpns / client access VPN concentrator management;<br>
+* PCI DSS compliance;<br>
+* UNIX/Linux administration;<br>
+* network planning, documentation and communication;<br>
+* perl / python / ruby / shell scripting; and<br>
+* ipv6 / dns / dnssec / multicast.<br>
+<br>
+craigslist offers:<br>
+* an unusually philanthropic company mission and philosophy; <br>
+* an opportunity to work on one of the most used websites in the world; <br>
+* love from craigslist users for adding features and fixing bugs; <br>
+* laid-back, idealistic, non-corporate vibe;<br>
+* a small team of smart, interesting, idealistic people; <br>
+* a San Francisco office location;<br>
+* market rates to you and a free market for basic human needs to users; and <br>
+* a small company culture with better benefits than most large companies.<br>
+<br>
+For consideration, please paste a cover letter highlighting your experience and interest and a plain text resume (or web URL) into the body of the email and send to techjobs@craigslist.org with NETWORK ENGINEER in the subject line.  Thank you for your interest in working for craigslist!<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li>Principals only. Recruiters, please don't contact this job poster.</li>
+<li>Please, no phone calls about this job!</li>
+<li>Please do not contact job poster about other services, products or commercial interests.</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-04-14T10:41:44-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://sfbay.craigslist.org/sfc/sof/2953529502.html</dc:source>
+<dc:title><![CDATA[craigslist is hiring Network Engineers (financial district)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-04-14T10:41:44-07:00</dcterms:issued>
+</item>
+</rdf:RDF>
