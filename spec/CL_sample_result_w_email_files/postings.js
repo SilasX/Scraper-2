@@ -1,0 +1,8 @@
+/* cl_version: 3 */function initFlag(inppid){pID=(pID||inppid);$("#flagChooser a.fl").each(function(){if($(this).css('position')=='relative'){$("#flagChooser").hide();$("#flagMsg").html("Thanks for flagging.");}})
+.click(function(){$.get("/flag/?async=async&flagCode="+$(this).attr('id').substr(4)+"&postingID="+pID);$("#flagChooser").slideUp("fast",function(){$("#flagMsg").html("Thanks for flagging.");});return false;});}
+$(document).ready(function(){initFlag(pID);if($('#reply').length){$.ajaxSetup({cache:true});$.getScript('http://api.recaptcha.net/js/recaptcha_ajax.js');$.ajaxSetup({cache:false});};$('#reply').click(function(e){buildRepForm(e);});})
+function buildRepForm(e){$.ajax({url:"/reply/"+pID+"?a=y",dataType:'html',success:function(data,status){if(data!=''){$('#reply').replaceWith(data);}
+makeCaptcha();},error:function(data,status){$('#reply').submit();}});e.preventDefault();return false;}
+function sendRepCaptcha(e){$.post('/reply/'+pID,{a:'y',replyKey:$('#replyKey').val(),recaptcha_response_field:$('#recaptcha_response_field').val(),recaptcha_challenge_field:$('#recaptcha_challenge_field').val()},function(data){$('#repCapt').replaceWith(data);if($('#captcha').length){makeCaptcha();}});e.preventDefault();}
+function makeCaptcha(){Recaptcha.create("6Lf5YAcAAAAAAILdm73fp007vvmaaDpFb6A5HLJP",'captcha',{theme:'clean',callback:function(){$('#recaptcha_response_field').focus();}});$('#repCapt').submit(sendRepCaptcha);}
+function iwMouseover(i){$("img#iwi").replaceWith('<img id="iwi" src="'+imgList[i]+'" alt="image '+i+'">');return false;}

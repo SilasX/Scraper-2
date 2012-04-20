@@ -1,6 +1,6 @@
 require '../helpers/url_helpers.rb'
-require 'nokogiri'
 require 'rss'
+require 'hpricot'
 
 class ResultSet
   include UrlHelper

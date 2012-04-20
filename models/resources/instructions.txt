@@ -1,0 +1,1 @@
+Do a search on craigslist with all the options set.  When the results come back, copy the resulting search url to the clipboard.  To quit, enter the command 'q'.
